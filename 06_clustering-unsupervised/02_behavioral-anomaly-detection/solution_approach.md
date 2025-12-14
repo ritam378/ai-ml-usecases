@@ -1,0 +1,5 @@
+# Solution Approach
+
+🚧 **To be documented**
+
+This file is part of the **User Behavior Anomaly Detection** case study.
