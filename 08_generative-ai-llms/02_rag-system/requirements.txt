@@ -1,5 +1,22 @@
-# Requirements.Txt
+# Embeddings & Vector Store
+sentence-transformers>=2.2.0  # Text embeddings (all-MiniLM-L6-v2)
+chromadb>=0.4.0               # Vector database
 
-🚧 **To be documented**
+# Core Dependencies
+numpy>=1.24.0
+pandas>=2.0.0
 
-This file is part of the **RAG System for Enterprise Knowledge Base** case study.
+# Optional LLM Integration (uncomment if needed)
+# openai>=1.0.0               # For GPT models
+# anthropic>=0.7.0            # For Claude models
+
+# Utilities
+tqdm>=4.66.0                  # Progress bars
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Jupyter Notebooks (optional)
+jupyter>=1.0.0
+ipykernel>=6.25.0

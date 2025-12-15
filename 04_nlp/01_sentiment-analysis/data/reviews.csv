@@ -1,0 +1,1001 @@
+review_id,text,sentiment,rating,product_id,product_category,verified_purchase,helpful_votes,review_date
+REV000039,"Excellent item, awesome value for money.",positive,4,PROD032,Toys & Games,False,10,2025-07-27
+REV000257,Outstanding! The tool is terrific.,positive,5,PROD099,Sports & Outdoors,False,2,2025-05-11
+REV000610,Mediocre. The thing is just adequate.,neutral,3,PROD088,Books,True,46,2025-05-02
+REV000362,"Love it! remarkable purchase, will buy again.",positive,4,PROD032,Beauty & Personal Care,False,9,2025-10-06
+REV000283,Perfect! Exactly what I needed. impressive!,positive,5,PROD055,Tools & Home Improvement,False,14,2025-04-20
+REV000058,Great purchase! Very great and reliable.,positive,4,PROD085,Home & Kitchen,False,32,2025-11-19
+REV000925,Worst thing ever. useless experience.,negative,2,PROD024,Health & Household,True,11,2025-06-14
+REV000796,Acceptable quality. moderate overall.,neutral,3,PROD090,Pet Supplies,False,39,2025-03-17
+REV000080,"Excellent equipment, brilliant value for money.",positive,4,PROD085,Toys & Games,True,32,2025-11-11
+REV000522,Best product I've ever bought. perfect!,positive,5,PROD089,Clothing,True,48,2025-09-18
+REV000714,Decent device. Could be better.,neutral,3,PROD014,Sports & Outdoors,True,1,2025-10-24
+REV000547,Amazing accessory! Works perfectly.,positive,5,PROD019,Sports & Outdoors,True,14,2025-10-26
+REV000883,"Disappointed. subpar quality, expected better.",negative,1,PROD017,Health & Household,False,26,2025-07-30
+REV000208,remarkable quality! Exceeded my expectations.,positive,4,PROD005,Clothing,True,2,2025-03-27
+REV000289,This product is brilliant! Highly recommend it.,positive,5,PROD095,Sports & Outdoors,False,35,2025-08-25
+REV000442,Best product I've ever bought. exceptional!,positive,4,PROD020,Home & Kitchen,True,42,2025-06-09
+REV000780,Acceptable quality. fair overall.,neutral,3,PROD032,Tools & Home Improvement,True,30,2025-06-29
+REV000546,Fantastic! Would definitely recommend this equipment.,positive,4,PROD069,Tools & Home Improvement,True,19,2025-04-01
+REV000963,Poor quality. subpar and disappointing.,negative,2,PROD031,Home & Kitchen,True,33,2025-11-20
+REV000237,fantastic quality! Exceeded my expectations.,positive,5,PROD032,Sports & Outdoors,True,3,2025-05-12
+REV000812,It works. passable but meets basic needs.,neutral,3,PROD027,Pet Supplies,False,3,2025-11-08
+REV000316,Amazing item! Works perfectly.,positive,5,PROD044,Pet Supplies,False,49,2025-05-31
+REV000814,Decent accessory. Could be better.,neutral,3,PROD030,Beauty & Personal Care,False,30,2025-04-28
+REV000987,Worst device ever. flimsy experience.,negative,1,PROD061,Toys & Games,True,0,2025-04-23
+REV000380,Great product! Very awesome and reliable.,positive,4,PROD047,Toys & Games,True,24,2025-10-02
+REV000938,Horrible! The gadget is defective.,negative,2,PROD070,Toys & Games,True,48,2024-12-31
+REV000783,Average thing. Nothing special.,neutral,3,PROD063,Home & Kitchen,False,20,2025-09-25
+REV000808,Decent purchase. Could be better.,neutral,3,PROD079,Clothing,False,16,2024-12-22
+REV000553,Amazing equipment! Works perfectly.,positive,4,PROD036,Toys & Games,True,43,2025-06-02
+REV000181,Perfect! Exactly what I needed. awesome!,positive,4,PROD084,Books,False,38,2025-08-15
+REV000834,It works. acceptable but meets basic needs.,neutral,3,PROD069,Toys & Games,False,43,2025-05-19
+REV000468,Amazing accessory! Works perfectly.,positive,5,PROD098,Books,True,38,2025-07-09
+REV000041,Best item I've ever bought. amazing!,positive,4,PROD096,Tools & Home Improvement,True,17,2025-05-08
+REV000189,Amazing appliance! Works perfectly.,positive,4,PROD025,Books,True,9,2025-01-23
+REV000144,Fantastic! Would definitely recommend this product.,positive,4,PROD043,Books,True,50,2025-09-30
+REV000542,Fantastic! Would definitely recommend this item.,positive,4,PROD046,Tools & Home Improvement,True,18,2025-12-01
+REV000517,"Love it! superb purchase, will buy again.",positive,4,PROD090,Tools & Home Improvement,False,44,2025-09-21
+REV000478,"Excellent product, impressive value for money.",positive,4,PROD001,Health & Household,False,13,2025-03-11
+REV000462,Amazing device! Works perfectly.,positive,4,PROD035,Beauty & Personal Care,True,49,2025-11-29
+REV000286,Amazing product! Works perfectly.,positive,4,PROD052,Health & Household,True,34,2025-04-05
+REV000841,Acceptable quality. acceptable overall.,neutral,3,PROD084,Tools & Home Improvement,False,43,2025-09-15
+REV000313,Great product! Very exceptional and reliable.,positive,5,PROD023,Toys & Games,True,13,2025-10-11
+REV000766,It's fine. decent for the price.,neutral,3,PROD069,Toys & Games,False,42,2025-02-13
+REV000699,Fair gadget. okay performance.,neutral,3,PROD022,Electronics,False,12,2025-12-06
+REV000562,Amazing tool! Works perfectly.,positive,4,PROD050,Health & Household,False,2,2025-01-04
+REV000339,fantastic quality! Exceeded my expectations.,positive,5,PROD011,Home & Kitchen,True,22,2025-05-23
+REV000160,Great item! Very wonderful and reliable.,positive,5,PROD098,Clothing,True,27,2025-09-28
+REV000936,"Do not buy! subpar product, broke quickly.",negative,1,PROD087,Toys & Games,True,19,2025-10-29
+REV000746,Mediocre. The tool is just basic.,neutral,3,PROD017,Pet Supplies,False,33,2025-11-03
+REV000319,Amazing item! Works perfectly.,positive,5,PROD011,Clothing,True,24,2025-12-14
+REV000872,Terrible experience. useless product quality.,negative,2,PROD004,Health & Household,False,49,2025-02-23
+REV000836,Decent device. Could be better.,neutral,3,PROD023,Tools & Home Improvement,True,24,2025-11-18
+REV000513,Fantastic! Would definitely recommend this appliance.,positive,4,PROD059,Pet Supplies,True,31,2024-12-17
+REV000795,Works as described. passable but not amazing.,neutral,3,PROD085,Beauty & Personal Care,True,5,2025-02-23
+REV000955,Terrible accessory. broken waste of money.,negative,1,PROD024,Pet Supplies,False,13,2025-11-18
+REV000195,Best appliance I've ever bought. excellent!,positive,4,PROD048,Tools & Home Improvement,True,45,2025-09-05
+REV000574,This product is outstanding! Highly recommend it.,positive,4,PROD065,Beauty & Personal Care,True,38,2025-02-02
+REV000112,This product is impressive! Highly recommend it.,positive,4,PROD031,Sports & Outdoors,False,35,2024-12-22
+REV000280,Best purchase I've ever bought. superb!,positive,4,PROD099,Sports & Outdoors,False,23,2025-06-28
+REV000334,great quality! Exceeded my expectations.,positive,5,PROD062,Pet Supplies,False,34,2025-08-31
+REV000641,It's fine. acceptable for the price.,neutral,3,PROD002,Health & Household,True,21,2025-07-18
+REV000564,Outstanding! The equipment is impressive.,positive,4,PROD047,Pet Supplies,True,33,2025-04-22
+REV000004,"Love it! remarkable purchase, will buy again.",positive,4,PROD044,Clothing,True,13,2025-06-05
+REV000594,Great thing! Very terrific and reliable.,positive,5,PROD033,Health & Household,False,36,2025-08-19
+REV000694,It works. okay but meets basic needs.,neutral,3,PROD026,Toys & Games,True,48,2025-01-27
+REV000125,Amazing equipment! Works perfectly.,positive,4,PROD073,Sports & Outdoors,True,11,2025-01-24
+REV000113,outstanding quality! Exceeded my expectations.,positive,5,PROD060,Home & Kitchen,True,31,2025-05-13
+REV000640,Works as described. acceptable but not amazing.,neutral,3,PROD035,Sports & Outdoors,False,46,2024-12-19
+REV000847,Acceptable quality. reasonable overall.,neutral,3,PROD088,Pet Supplies,True,20,2025-04-03
+REV000999,Complete waste. disappointing and unreliable.,negative,1,PROD014,Toys & Games,True,1,2025-01-25
+REV000945,Worst device ever. terrible experience.,negative,2,PROD032,Books,False,37,2025-01-27
+REV000376,Amazing item! Works perfectly.,positive,5,PROD018,Home & Kitchen,False,22,2025-07-22
+REV000056,"Love it! exceptional purchase, will buy again.",positive,5,PROD039,Beauty & Personal Care,True,19,2025-05-10
+REV000285,Amazing item! Works perfectly.,positive,4,PROD013,Pet Supplies,True,28,2025-10-17
+REV000608,It works. basic but meets basic needs.,neutral,3,PROD047,Sports & Outdoors,False,27,2025-04-01
+REV000854,Terrible experience. awful product quality.,negative,2,PROD045,Beauty & Personal Care,True,35,2025-04-14
+REV000954,Awful equipment. Not worth it at all.,negative,2,PROD033,Pet Supplies,False,42,2025-09-21
+REV000337,excellent quality! Exceeded my expectations.,positive,5,PROD034,Books,True,28,2025-06-24
+REV000134,Great gadget! Very brilliant and reliable.,positive,5,PROD022,Clothing,False,18,2025-06-06
+REV000245,Fantastic! Would definitely recommend this equipment.,positive,4,PROD065,Electronics,True,2,2025-02-23
+REV000798,Works as described. standard but not amazing.,neutral,3,PROD001,Pet Supplies,False,46,2025-04-15
+REV000069,Perfect! Exactly what I needed. excellent!,positive,5,PROD039,Beauty & Personal Care,False,34,2025-09-20
+REV000269,Best device I've ever bought. superb!,positive,4,PROD058,Clothing,False,19,2025-10-09
+REV000103,Perfect! Exactly what I needed. amazing!,positive,5,PROD089,Clothing,False,17,2025-08-28
+REV000358,Amazing thing! Works perfectly.,positive,4,PROD089,Toys & Games,False,10,2025-10-26
+REV000679,It's fine. decent for the price.,neutral,3,PROD012,Pet Supplies,False,36,2025-04-05
+REV000950,Complete waste. poor and unreliable.,negative,2,PROD082,Home & Kitchen,True,18,2025-04-29
+REV000928,Poor quality. disappointing and disappointing.,negative,1,PROD015,Beauty & Personal Care,False,29,2025-10-18
+REV000996,"Disappointed. horrible quality, expected better.",negative,1,PROD096,Tools & Home Improvement,False,36,2025-11-19
+REV000279,This product is superb! Highly recommend it.,positive,4,PROD090,Home & Kitchen,True,4,2025-08-13
+REV000739,Mediocre. The tool is just decent.,neutral,3,PROD012,Electronics,True,26,2025-03-16
+REV000924,"Do not buy! flimsy product, broke quickly.",negative,2,PROD001,Home & Kitchen,True,32,2025-12-12
+REV000733,It's okay. Does what it's supposed to do.,neutral,3,PROD040,Health & Household,False,40,2025-03-17
+REV000560,Perfect! Exactly what I needed. perfect!,positive,4,PROD073,Pet Supplies,True,47,2025-08-19
+REV000384,brilliant quality! Exceeded my expectations.,positive,5,PROD020,Tools & Home Improvement,False,25,2025-10-11
+REV000706,It's fine. ordinary for the price.,neutral,3,PROD008,Clothing,False,1,2025-09-25
+REV000655,It works. ordinary but meets basic needs.,neutral,3,PROD070,Health & Household,True,36,2025-03-20
+REV000654,It's okay. Does what it's supposed to do.,neutral,3,PROD046,Sports & Outdoors,False,2,2025-08-20
+REV000338,Perfect! Exactly what I needed. splendid!,positive,5,PROD089,Tools & Home Improvement,True,22,2024-12-27
+REV000732,"Not bad, not great. Just basic.",neutral,3,PROD021,Sports & Outdoors,True,49,2025-12-14
+REV000140,Outstanding! The tool is great.,positive,4,PROD086,Tools & Home Improvement,False,37,2025-03-04
+REV000239,Great appliance! Very great and reliable.,positive,5,PROD040,Health & Household,True,5,2025-07-04
+REV000404,"Excellent item, superb value for money.",positive,5,PROD069,Toys & Games,True,28,2025-05-21
+REV000998,Horrible! The item is broken.,negative,1,PROD043,Electronics,False,43,2025-11-28
+REV000512,Perfect! Exactly what I needed. terrific!,positive,4,PROD092,Toys & Games,True,48,2025-07-15
+REV000802,Fair thing. sufficient performance.,neutral,3,PROD012,Books,False,40,2025-11-19
+REV000501,"Excellent accessory, excellent value for money.",positive,5,PROD099,Pet Supplies,True,42,2025-06-06
+REV000969,Terrible device. useless waste of money.,negative,1,PROD033,Tools & Home Improvement,False,19,2025-11-07
+REV000551,Amazing appliance! Works perfectly.,positive,4,PROD058,Toys & Games,False,44,2025-10-10
+REV000864,"Disappointed. horrible quality, expected better.",negative,1,PROD060,Health & Household,False,10,2025-06-08
+REV000284,"Excellent gadget, perfect value for money.",positive,5,PROD025,Home & Kitchen,True,42,2025-07-17
+REV000182,This product is great! Highly recommend it.,positive,4,PROD044,Home & Kitchen,True,2,2025-04-20
+REV000558,Outstanding! The thing is outstanding.,positive,5,PROD094,Clothing,True,29,2025-08-28
+REV000993,Awful product. Not worth it at all.,negative,1,PROD061,Clothing,True,45,2025-08-11
+REV000505,Outstanding! The device is terrific.,positive,5,PROD011,Health & Household,False,36,2025-08-01
+REV000276,impressive quality! Exceeded my expectations.,positive,5,PROD092,Pet Supplies,False,5,2025-09-02
+REV000970,Poor quality. defective and disappointing.,negative,2,PROD057,Beauty & Personal Care,True,25,2025-04-24
+REV000328,"Excellent thing, terrific value for money.",positive,5,PROD049,Toys & Games,False,21,2025-07-23
+REV000148,This product is perfect! Highly recommend it.,positive,5,PROD068,Home & Kitchen,True,30,2025-08-01
+REV000177,"Love it! splendid purchase, will buy again.",positive,4,PROD060,Pet Supplies,False,43,2025-09-30
+REV000761,Fair appliance. okay performance.,neutral,3,PROD065,Sports & Outdoors,True,21,2025-08-19
+REV000573,Perfect! Exactly what I needed. exceptional!,positive,5,PROD009,Books,False,24,2025-02-20
+REV000254,Great accessory! Very wonderful and reliable.,positive,5,PROD046,Clothing,False,12,2025-04-20
+REV000844,Works as described. okay but not amazing.,neutral,3,PROD081,Electronics,False,50,2025-02-02
+REV000220,Great accessory! Very superb and reliable.,positive,5,PROD016,Clothing,False,45,2025-07-31
+REV000250,This product is exceptional! Highly recommend it.,positive,4,PROD022,Tools & Home Improvement,False,9,2025-11-28
+REV000852,Complete waste. useless and unreliable.,negative,2,PROD089,Sports & Outdoors,True,9,2025-11-07
+REV000740,Works as described. satisfactory but not amazing.,neutral,3,PROD079,Pet Supplies,True,29,2025-10-07
+REV000758,Average gadget. Nothing special.,neutral,3,PROD091,Toys & Games,True,17,2025-07-14
+REV000335,Great tool! Very excellent and reliable.,positive,5,PROD090,Tools & Home Improvement,True,6,2025-04-21
+REV000374,"Love it! impressive purchase, will buy again.",positive,5,PROD009,Tools & Home Improvement,True,39,2025-11-12
+REV000386,great quality! Exceeded my expectations.,positive,5,PROD078,Electronics,False,42,2025-11-16
+REV000435,This product is superb! Highly recommend it.,positive,5,PROD078,Beauty & Personal Care,True,3,2025-02-04
+REV000850,It's okay. Does what it's supposed to do.,neutral,3,PROD081,Pet Supplies,False,49,2025-03-05
+REV000984,Terrible gadget. bad waste of money.,negative,1,PROD031,Pet Supplies,False,15,2025-06-22
+REV000609,Acceptable quality. passable overall.,neutral,3,PROD047,Beauty & Personal Care,False,28,2025-03-17
+REV000389,Outstanding! The accessory is fantastic.,positive,5,PROD009,Clothing,True,31,2025-08-05
+REV000204,"Love it! impressive purchase, will buy again.",positive,5,PROD068,Toys & Games,True,33,2025-09-19
+REV000986,Complete waste. useless and unreliable.,negative,2,PROD033,Home & Kitchen,True,35,2025-01-14
+REV000973,Complete waste. flimsy and unreliable.,negative,2,PROD021,Clothing,True,22,2025-07-18
+REV000221,Fantastic! Would definitely recommend this appliance.,positive,4,PROD026,Home & Kitchen,True,4,2025-08-03
+REV000451,Perfect! Exactly what I needed. exceptional!,positive,5,PROD061,Electronics,True,17,2025-07-09
+REV000622,"Not bad, not great. Just passable.",neutral,3,PROD067,Health & Household,False,10,2025-03-19
+REV000340,Perfect! Exactly what I needed. splendid!,positive,5,PROD067,Health & Household,False,30,2025-02-02
+REV000100,Fantastic! Would definitely recommend this gadget.,positive,5,PROD005,Books,False,45,2025-05-08
+REV000965,Terrible experience. useless product quality.,negative,2,PROD096,Books,False,13,2025-02-26
+REV000336,"Love it! impressive purchase, will buy again.",positive,5,PROD006,Pet Supplies,False,48,2025-06-02
+REV000091,Amazing appliance! Works perfectly.,positive,4,PROD036,Pet Supplies,False,6,2025-03-24
+REV000417,This product is awesome! Highly recommend it.,positive,4,PROD008,Health & Household,False,49,2025-10-10
+REV000527,Perfect! Exactly what I needed. perfect!,positive,5,PROD024,Sports & Outdoors,True,24,2025-01-04
+REV000008,Best tool I've ever bought. great!,positive,5,PROD021,Toys & Games,False,13,2025-11-23
+REV000569,Outstanding! The device is excellent.,positive,4,PROD006,Sports & Outdoors,True,8,2025-11-02
+REV000726,Decent product. Could be better.,neutral,3,PROD089,Tools & Home Improvement,True,29,2025-11-10
+REV000421,Great purchase! Very fantastic and reliable.,positive,5,PROD063,Electronics,True,3,2025-04-13
+REV000723,It's okay. Does what it's supposed to do.,neutral,3,PROD067,Tools & Home Improvement,False,47,2025-01-04
+REV000101,impressive quality! Exceeded my expectations.,positive,5,PROD034,Pet Supplies,True,27,2025-02-11
+REV000935,Horrible! The purchase is poor.,negative,2,PROD004,Home & Kitchen,True,4,2025-08-27
+REV000188,Great equipment! Very amazing and reliable.,positive,4,PROD066,Toys & Games,True,23,2025-05-22
+REV000327,Fantastic! Would definitely recommend this device.,positive,5,PROD059,Home & Kitchen,True,19,2024-12-18
+REV000045,Outstanding! The product is perfect.,positive,4,PROD040,Toys & Games,True,22,2025-04-01
+REV000003,Great accessory! Very outstanding and reliable.,positive,4,PROD054,Books,False,37,2025-05-06
+REV000397,"Love it! excellent purchase, will buy again.",positive,4,PROD004,Books,False,40,2025-12-05
+REV000514,Great equipment! Very awesome and reliable.,positive,4,PROD075,Health & Household,True,44,2025-10-07
+REV000556,awesome quality! Exceeded my expectations.,positive,4,PROD065,Electronics,False,49,2025-10-13
+REV000689,Fair purchase. standard performance.,neutral,3,PROD098,Sports & Outdoors,False,35,2025-03-26
+REV000393,Outstanding! The tool is awesome.,positive,4,PROD035,Home & Kitchen,False,7,2025-08-29
+REV000005,superb quality! Exceeded my expectations.,positive,4,PROD046,Toys & Games,False,2,2025-08-07
+REV000839,It's fine. average for the price.,neutral,3,PROD009,Tools & Home Improvement,False,31,2025-09-14
+REV000482,"Excellent purchase, fantastic value for money.",positive,4,PROD014,Beauty & Personal Care,False,10,2025-01-17
+REV000118,Amazing equipment! Works perfectly.,positive,4,PROD030,Beauty & Personal Care,True,20,2025-08-14
+REV000813,Decent item. Could be better.,neutral,3,PROD007,Sports & Outdoors,False,25,2025-08-15
+REV000941,Complete waste. inferior and unreliable.,negative,2,PROD073,Health & Household,False,30,2025-09-28
+REV000083,Perfect! Exactly what I needed. superb!,positive,5,PROD035,Toys & Games,True,5,2025-05-06
+REV000170,Great device! Very remarkable and reliable.,positive,5,PROD065,Tools & Home Improvement,False,4,2025-07-06
+REV000473,Amazing device! Works perfectly.,positive,4,PROD096,Clothing,False,50,2025-06-02
+REV000395,"Excellent accessory, amazing value for money.",positive,5,PROD059,Electronics,False,12,2025-05-13
+REV000700,Mediocre. The product is just decent.,neutral,3,PROD060,Electronics,True,24,2025-11-18
+REV000745,Mediocre. The gadget is just sufficient.,neutral,3,PROD055,Pet Supplies,False,16,2025-09-10
+REV000264,This product is fantastic! Highly recommend it.,positive,4,PROD078,Home & Kitchen,False,18,2025-08-04
+REV000601,It works. basic but meets basic needs.,neutral,3,PROD098,Tools & Home Improvement,True,30,2025-06-23
+REV000222,Perfect! Exactly what I needed. amazing!,positive,4,PROD086,Toys & Games,True,35,2025-09-18
+REV000893,Poor quality. useless and disappointing.,negative,2,PROD006,Sports & Outdoors,True,19,2024-12-27
+REV000544,Perfect! Exactly what I needed. perfect!,positive,4,PROD029,Sports & Outdoors,False,50,2025-09-20
+REV000644,Works as described. fair but not amazing.,neutral,3,PROD049,Electronics,True,49,2025-12-15
+REV000496,"Excellent appliance, wonderful value for money.",positive,4,PROD080,Clothing,True,23,2025-06-08
+REV000401,Fantastic! Would definitely recommend this product.,positive,4,PROD056,Sports & Outdoors,True,18,2025-04-27
+REV000932,Worst tool ever. poor experience.,negative,1,PROD026,Pet Supplies,False,7,2025-04-13
+REV000979,Poor quality. inferior and disappointing.,negative,1,PROD034,Sports & Outdoors,True,25,2025-10-27
+REV000186,"Excellent thing, amazing value for money.",positive,4,PROD085,Sports & Outdoors,False,19,2025-11-15
+REV000036,Fantastic! Would definitely recommend this accessory.,positive,5,PROD041,Clothing,True,42,2025-05-24
+REV000515,"Love it! amazing purchase, will buy again.",positive,4,PROD085,Pet Supplies,False,32,2025-06-29
+REV000394,"Love it! outstanding purchase, will buy again.",positive,4,PROD006,Beauty & Personal Care,True,29,2025-05-08
+REV000697,It's fine. passable for the price.,neutral,3,PROD028,Books,False,35,2025-08-19
+REV000392,"Excellent purchase, superb value for money.",positive,5,PROD023,Electronics,False,14,2025-05-28
+REV000372,terrific quality! Exceeded my expectations.,positive,5,PROD089,Sports & Outdoors,False,4,2025-04-11
+REV000018,Great accessory! Very splendid and reliable.,positive,4,PROD001,Pet Supplies,False,31,2024-12-24
+REV000145,terrific quality! Exceeded my expectations.,positive,4,PROD027,Pet Supplies,True,14,2025-06-01
+REV000137,Fantastic! Would definitely recommend this tool.,positive,5,PROD014,Books,False,1,2025-10-28
+REV000589,Fantastic! Would definitely recommend this product.,positive,4,PROD047,Books,True,10,2025-01-28
+REV000705,Works as described. okay but not amazing.,neutral,3,PROD088,Toys & Games,False,40,2025-05-18
+REV000315,Outstanding! The purchase is splendid.,positive,5,PROD089,Home & Kitchen,False,3,2025-02-03
+REV000282,"Love it! brilliant purchase, will buy again.",positive,4,PROD068,Sports & Outdoors,True,0,2024-12-26
+REV000325,Best purchase I've ever bought. great!,positive,5,PROD009,Sports & Outdoors,False,17,2025-07-18
+REV000582,Amazing accessory! Works perfectly.,positive,5,PROD072,Health & Household,True,23,2025-09-27
+REV000055,"Excellent gadget, superb value for money.",positive,5,PROD071,Sports & Outdoors,True,26,2025-11-20
+REV000162,"Excellent purchase, excellent value for money.",positive,5,PROD019,Pet Supplies,False,4,2025-02-25
+REV000794,Decent purchase. Could be better.,neutral,3,PROD018,Electronics,True,41,2024-12-23
+REV000098,Fantastic! Would definitely recommend this item.,positive,4,PROD098,Books,True,16,2025-11-18
+REV000314,Outstanding! The item is awesome.,positive,4,PROD039,Sports & Outdoors,True,36,2025-07-02
+REV000065,Great device! Very great and reliable.,positive,5,PROD036,Health & Household,True,45,2025-05-10
+REV000510,Best accessory I've ever bought. brilliant!,positive,5,PROD048,Home & Kitchen,True,10,2025-08-24
+REV000070,Perfect! Exactly what I needed. outstanding!,positive,4,PROD056,Health & Household,True,24,2025-06-05
+REV000652,It's okay. Does what it's supposed to do.,neutral,3,PROD083,Sports & Outdoors,True,8,2025-08-21
+REV000016,fantastic quality! Exceeded my expectations.,positive,5,PROD021,Health & Household,True,46,2025-04-28
+REV000223,Best purchase I've ever bought. terrific!,positive,5,PROD092,Sports & Outdoors,False,32,2025-04-08
+REV000918,"Do not buy! poor product, broke quickly.",negative,2,PROD011,Beauty & Personal Care,True,4,2024-12-24
+REV000681,Mediocre. The item is just moderate.,neutral,3,PROD077,Clothing,True,46,2025-10-06
+REV000075,This product is splendid! Highly recommend it.,positive,4,PROD032,Books,True,39,2025-03-03
+REV000605,Works as described. average but not amazing.,neutral,3,PROD090,Tools & Home Improvement,False,20,2025-12-02
+REV000321,Best purchase I've ever bought. amazing!,positive,5,PROD012,Sports & Outdoors,False,28,2025-09-26
+REV000119,Outstanding! The purchase is impressive.,positive,5,PROD064,Electronics,True,32,2025-10-13
+REV000636,Average device. Nothing special.,neutral,3,PROD067,Pet Supplies,False,18,2025-11-12
+REV000001,This product is remarkable! Highly recommend it.,positive,4,PROD032,Books,True,47,2025-02-05
+REV000581,Best accessory I've ever bought. terrific!,positive,5,PROD055,Pet Supplies,False,39,2025-05-05
+REV000116,Great product! Very fantastic and reliable.,positive,5,PROD037,Clothing,False,9,2025-07-31
+REV000718,Works as described. fair but not amazing.,neutral,3,PROD005,Beauty & Personal Care,True,17,2025-07-14
+REV000914,Very poor. Returned it immediately.,negative,1,PROD072,Pet Supplies,True,26,2025-08-07
+REV000459,Great item! Very superb and reliable.,positive,5,PROD088,Electronics,True,23,2025-08-22
+REV000396,Fantastic! Would definitely recommend this appliance.,positive,5,PROD048,Pet Supplies,False,49,2025-03-25
+REV000444,Fantastic! Would definitely recommend this device.,positive,5,PROD061,Clothing,True,25,2025-12-15
+REV000351,Best purchase I've ever bought. perfect!,positive,5,PROD041,Health & Household,True,22,2024-12-19
+REV000792,Acceptable quality. standard overall.,neutral,3,PROD056,Tools & Home Improvement,True,42,2025-03-13
+REV000901,Poor quality. terrible and disappointing.,negative,2,PROD082,Clothing,False,11,2025-09-25
+REV000037,Best purchase I've ever bought. superb!,positive,4,PROD086,Clothing,False,20,2025-01-21
+REV000201,splendid quality! Exceeded my expectations.,positive,5,PROD031,Clothing,True,3,2025-04-16
+REV000751,Fair product. reasonable performance.,neutral,3,PROD015,Toys & Games,False,25,2025-10-02
+REV000793,It works. adequate but meets basic needs.,neutral,3,PROD072,Beauty & Personal Care,False,26,2025-03-03
+REV000494,Best appliance I've ever bought. fantastic!,positive,5,PROD007,Home & Kitchen,True,2,2025-05-12
+REV000555,Fantastic! Would definitely recommend this gadget.,positive,4,PROD018,Tools & Home Improvement,True,16,2025-10-31
+REV000811,Works as described. basic but not amazing.,neutral,3,PROD064,Beauty & Personal Care,False,15,2025-11-18
+REV000789,Average product. Nothing special.,neutral,3,PROD079,Tools & Home Improvement,False,8,2025-05-14
+REV000631,Decent equipment. Could be better.,neutral,3,PROD034,Sports & Outdoors,False,0,2024-12-15
+REV000407,Best purchase I've ever bought. fantastic!,positive,4,PROD004,Beauty & Personal Care,False,35,2025-09-22
+REV000078,Best equipment I've ever bought. exceptional!,positive,4,PROD051,Books,True,37,2025-12-03
+REV000659,It's okay. Does what it's supposed to do.,neutral,3,PROD100,Pet Supplies,True,20,2025-01-16
+REV000202,Fantastic! Would definitely recommend this item.,positive,5,PROD015,Health & Household,True,40,2025-09-04
+REV000387,excellent quality! Exceeded my expectations.,positive,4,PROD090,Electronics,True,31,2025-06-10
+REV000357,Best product I've ever bought. terrific!,positive,4,PROD058,Clothing,False,5,2025-07-27
+REV000307,Great product! Very fantastic and reliable.,positive,5,PROD065,Beauty & Personal Care,True,6,2025-02-02
+REV000587,Fantastic! Would definitely recommend this accessory.,positive,5,PROD037,Pet Supplies,True,49,2025-03-14
+REV000026,Amazing appliance! Works perfectly.,positive,5,PROD053,Books,True,6,2025-11-17
+REV000385,Best equipment I've ever bought. remarkable!,positive,4,PROD094,Books,True,15,2025-01-28
+REV000958,Awful equipment. Not worth it at all.,negative,1,PROD035,Clothing,True,16,2025-12-01
+REV000390,This product is great! Highly recommend it.,positive,5,PROD022,Toys & Games,True,16,2025-02-05
+REV000724,Fair accessory. standard performance.,neutral,3,PROD098,Electronics,True,18,2025-07-28
+REV000649,Acceptable quality. reasonable overall.,neutral,3,PROD022,Clothing,True,25,2025-04-18
+REV000329,Best thing I've ever bought. wonderful!,positive,4,PROD089,Books,False,20,2025-03-15
+REV000747,It works. average but meets basic needs.,neutral,3,PROD079,Books,False,12,2024-12-15
+REV000656,Fair tool. reasonable performance.,neutral,3,PROD094,Health & Household,False,38,2025-09-24
+REV000411,This product is perfect! Highly recommend it.,positive,5,PROD056,Beauty & Personal Care,False,1,2025-06-28
+REV000531,Great purchase! Very outstanding and reliable.,positive,5,PROD067,Home & Kitchen,True,26,2025-09-19
+REV000034,Great accessory! Very awesome and reliable.,positive,5,PROD021,Electronics,True,11,2025-01-19
+REV000352,"Love it! outstanding purchase, will buy again.",positive,5,PROD072,Tools & Home Improvement,False,26,2025-11-30
+REV000942,Very terrible. Returned it immediately.,negative,1,PROD034,Health & Household,False,39,2025-11-26
+REV000886,"Disappointed. horrible quality, expected better.",negative,1,PROD030,Health & Household,False,18,2025-01-08
+REV000479,Perfect! Exactly what I needed. splendid!,positive,4,PROD017,Pet Supplies,False,40,2025-07-22
+REV000138,Fantastic! Would definitely recommend this item.,positive,5,PROD082,Health & Household,False,41,2025-07-12
+REV000304,This product is splendid! Highly recommend it.,positive,4,PROD053,Sports & Outdoors,True,4,2025-12-12
+REV000198,Amazing item! Works perfectly.,positive,5,PROD048,Books,True,20,2025-02-03
+REV000735,It works. moderate but meets basic needs.,neutral,3,PROD070,Electronics,False,15,2025-04-05
+REV000885,Worst thing ever. inferior experience.,negative,2,PROD086,Tools & Home Improvement,False,29,2025-05-19
+REV000253,Great accessory! Very outstanding and reliable.,positive,4,PROD042,Health & Household,False,20,2025-03-13
+REV000122,Great tool! Very superb and reliable.,positive,5,PROD081,Health & Household,True,39,2025-01-19
+REV000123,Best item I've ever bought. outstanding!,positive,4,PROD056,Home & Kitchen,True,28,2025-03-10
+REV000809,Average purchase. Nothing special.,neutral,3,PROD076,Sports & Outdoors,False,23,2025-03-14
+REV000027,"Excellent equipment, superb value for money.",positive,5,PROD060,Electronics,True,3,2025-07-09
+REV000332,Perfect! Exactly what I needed. remarkable!,positive,4,PROD057,Clothing,True,50,2025-07-12
+REV000786,It's okay. Does what it's supposed to do.,neutral,3,PROD018,Pet Supplies,True,48,2025-02-28
+REV000680,Average tool. Nothing special.,neutral,3,PROD062,Sports & Outdoors,False,44,2025-12-09
+REV000686,Acceptable quality. average overall.,neutral,3,PROD074,Tools & Home Improvement,True,14,2025-07-24
+REV000212,"Excellent accessory, awesome value for money.",positive,5,PROD035,Home & Kitchen,False,5,2025-07-23
+REV000408,great quality! Exceeded my expectations.,positive,4,PROD018,Home & Kitchen,True,3,2025-04-07
+REV000535,superb quality! Exceeded my expectations.,positive,5,PROD070,Clothing,True,33,2025-06-24
+REV000566,Great purchase! Very awesome and reliable.,positive,4,PROD057,Sports & Outdoors,True,4,2025-09-04
+REV000200,Perfect! Exactly what I needed. exceptional!,positive,5,PROD011,Electronics,False,13,2025-03-01
+REV000889,Horrible! The tool is bad.,negative,1,PROD024,Books,True,42,2025-05-26
+REV000030,awesome quality! Exceeded my expectations.,positive,4,PROD022,Beauty & Personal Care,False,30,2025-04-03
+REV000816,"Not bad, not great. Just ordinary.",neutral,3,PROD013,Tools & Home Improvement,False,27,2025-10-23
+REV000580,Amazing tool! Works perfectly.,positive,5,PROD053,Toys & Games,True,9,2025-07-21
+REV000585,"Love it! superb purchase, will buy again.",positive,4,PROD012,Sports & Outdoors,False,38,2025-07-25
+REV000753,It works. tolerable but meets basic needs.,neutral,3,PROD083,Sports & Outdoors,False,9,2025-11-01
+REV000908,"Disappointed. horrible quality, expected better.",negative,1,PROD008,Sports & Outdoors,False,29,2025-12-04
+REV000209,"Excellent gadget, awesome value for money.",positive,4,PROD066,Beauty & Personal Care,False,16,2025-01-02
+REV000616,Fair gadget. ordinary performance.,neutral,3,PROD045,Electronics,False,7,2025-06-12
+REV000419,Fantastic! Would definitely recommend this equipment.,positive,4,PROD046,Sports & Outdoors,True,15,2025-10-14
+REV000355,Great item! Very brilliant and reliable.,positive,5,PROD074,Home & Kitchen,False,49,2025-09-19
+REV000888,"Do not buy! horrible product, broke quickly.",negative,2,PROD021,Books,True,2,2025-05-26
+REV000545,"Love it! fantastic purchase, will buy again.",positive,5,PROD002,Tools & Home Improvement,True,7,2025-01-05
+REV000966,"Do not buy! poor product, broke quickly.",negative,1,PROD057,Beauty & Personal Care,False,37,2025-01-12
+REV000147,"Love it! excellent purchase, will buy again.",positive,4,PROD031,Pet Supplies,False,1,2025-03-14
+REV000892,"Disappointed. inferior quality, expected better.",negative,2,PROD097,Pet Supplies,True,36,2025-07-29
+REV000782,Mediocre. The tool is just tolerable.,neutral,3,PROD070,Books,True,42,2025-11-22
+REV000487,This product is excellent! Highly recommend it.,positive,4,PROD054,Health & Household,False,7,2025-09-21
+REV000059,terrific quality! Exceeded my expectations.,positive,5,PROD087,Clothing,True,12,2025-02-28
+REV000848,It's okay. Does what it's supposed to do.,neutral,3,PROD043,Home & Kitchen,True,17,2025-02-25
+REV000132,awesome quality! Exceeded my expectations.,positive,4,PROD040,Health & Household,True,37,2025-06-19
+REV000922,Terrible experience. disappointing product quality.,negative,2,PROD021,Tools & Home Improvement,True,32,2025-10-02
+REV000787,Works as described. average but not amazing.,neutral,3,PROD038,Beauty & Personal Care,False,12,2025-03-30
+REV000590,Outstanding! The equipment is wonderful.,positive,5,PROD052,Pet Supplies,True,33,2024-12-22
+REV000477,"Love it! wonderful purchase, will buy again.",positive,5,PROD100,Home & Kitchen,False,21,2025-11-03
+REV000684,Acceptable quality. okay overall.,neutral,3,PROD068,Electronics,False,34,2025-09-30
+REV000657,Works as described. acceptable but not amazing.,neutral,3,PROD020,Health & Household,False,16,2025-09-18
+REV000224,Amazing purchase! Works perfectly.,positive,4,PROD031,Health & Household,True,23,2025-09-24
+REV000175,Great device! Very brilliant and reliable.,positive,4,PROD100,Toys & Games,False,46,2025-11-10
+REV000012,Perfect! Exactly what I needed. perfect!,positive,5,PROD018,Books,False,47,2025-10-10
+REV000596,superb quality! Exceeded my expectations.,positive,5,PROD087,Books,False,26,2025-06-13
+REV000360,"Excellent gadget, remarkable value for money.",positive,4,PROD038,Pet Supplies,False,32,2025-11-27
+REV000736,Mediocre. The appliance is just satisfactory.,neutral,3,PROD059,Beauty & Personal Care,False,5,2025-10-18
+REV000206,wonderful quality! Exceeded my expectations.,positive,5,PROD094,Home & Kitchen,False,8,2025-01-06
+REV000165,Fantastic! Would definitely recommend this item.,positive,4,PROD035,Health & Household,False,31,2025-10-21
+REV000381,"Excellent purchase, brilliant value for money.",positive,5,PROD098,Health & Household,True,1,2025-10-11
+REV000643,Works as described. okay but not amazing.,neutral,3,PROD100,Beauty & Personal Care,True,34,2025-08-12
+REV000359,Amazing device! Works perfectly.,positive,4,PROD008,Pet Supplies,False,34,2025-05-07
+REV000228,Great product! Very awesome and reliable.,positive,5,PROD016,Tools & Home Improvement,True,19,2025-03-09
+REV000297,Fantastic! Would definitely recommend this device.,positive,4,PROD051,Books,False,49,2025-05-08
+REV000612,It works. tolerable but meets basic needs.,neutral,3,PROD023,Beauty & Personal Care,False,8,2025-11-02
+REV000748,Average appliance. Nothing special.,neutral,3,PROD081,Home & Kitchen,True,39,2025-07-15
+REV000141,terrific quality! Exceeded my expectations.,positive,5,PROD079,Beauty & Personal Care,False,2,2025-12-03
+REV000997,Terrible experience. terrible product quality.,negative,1,PROD099,Pet Supplies,True,26,2025-01-23
+REV000923,Poor quality. cheap and disappointing.,negative,1,PROD098,Electronics,True,45,2025-03-23
+REV000764,Mediocre. The item is just moderate.,neutral,3,PROD043,Health & Household,True,6,2025-09-07
+REV000760,Decent item. Could be better.,neutral,3,PROD048,Electronics,True,5,2025-07-30
+REV000010,Great tool! Very outstanding and reliable.,positive,5,PROD099,Electronics,True,2,2025-05-25
+REV000258,"Excellent appliance, awesome value for money.",positive,4,PROD084,Clothing,False,13,2025-03-28
+REV000586,fantastic quality! Exceeded my expectations.,positive,4,PROD048,Home & Kitchen,True,46,2025-06-29
+REV000870,Very worthless. Returned it immediately.,negative,1,PROD089,Beauty & Personal Care,True,8,2025-06-16
+REV000588,Perfect! Exactly what I needed. excellent!,positive,5,PROD085,Tools & Home Improvement,False,12,2025-01-01
+REV000957,Horrible! The device is horrible.,negative,2,PROD020,Clothing,False,26,2025-05-27
+REV000785,Average thing. Nothing special.,neutral,3,PROD099,Beauty & Personal Care,False,31,2025-11-10
+REV000296,Best product I've ever bought. awesome!,positive,5,PROD028,Books,True,47,2025-08-17
+REV000278,Best product I've ever bought. remarkable!,positive,5,PROD051,Clothing,True,47,2025-04-05
+REV000317,Best appliance I've ever bought. splendid!,positive,4,PROD063,Books,False,35,2025-06-25
+REV000492,Perfect! Exactly what I needed. wonderful!,positive,4,PROD001,Electronics,True,7,2025-10-04
+REV000044,Great item! Very excellent and reliable.,positive,5,PROD010,Sports & Outdoors,True,23,2025-10-09
+REV000431,This product is excellent! Highly recommend it.,positive,4,PROD057,Beauty & Personal Care,True,26,2025-08-24
+REV000330,"Excellent appliance, fantastic value for money.",positive,5,PROD074,Books,False,24,2025-05-07
+REV000064,Great purchase! Very great and reliable.,positive,5,PROD096,Health & Household,False,16,2025-04-20
+REV000882,Poor quality. horrible and disappointing.,negative,1,PROD015,Sports & Outdoors,False,9,2025-03-29
+REV000288,Amazing purchase! Works perfectly.,positive,5,PROD085,Tools & Home Improvement,True,26,2025-05-17
+REV000388,"Love it! wonderful purchase, will buy again.",positive,5,PROD096,Clothing,True,49,2024-12-30
+REV000630,Fair tool. decent performance.,neutral,3,PROD062,Tools & Home Improvement,True,5,2025-07-29
+REV000871,Awful item. Not worth it at all.,negative,2,PROD003,Health & Household,False,10,2025-12-10
+REV000013,Fantastic! Would definitely recommend this tool.,positive,5,PROD029,Sports & Outdoors,False,5,2025-01-08
+REV000085,"Excellent appliance, perfect value for money.",positive,5,PROD028,Toys & Games,False,21,2025-05-07
+REV000597,Best gadget I've ever bought. outstanding!,positive,4,PROD012,Beauty & Personal Care,False,4,2025-09-24
+REV000982,Awful gadget. Not worth it at all.,negative,1,PROD037,Health & Household,False,8,2025-07-23
+REV000143,This product is superb! Highly recommend it.,positive,5,PROD025,Home & Kitchen,False,5,2025-11-19
+REV000227,Perfect! Exactly what I needed. great!,positive,4,PROD045,Sports & Outdoors,True,49,2025-02-19
+REV000344,Outstanding! The thing is excellent.,positive,5,PROD026,Health & Household,False,24,2024-12-17
+REV000537,"Love it! splendid purchase, will buy again.",positive,4,PROD069,Electronics,True,13,2025-11-23
+REV000277,This product is great! Highly recommend it.,positive,5,PROD066,Beauty & Personal Care,False,36,2025-01-13
+REV000174,Best tool I've ever bought. remarkable!,positive,5,PROD029,Toys & Games,True,4,2025-09-02
+REV000463,Perfect! Exactly what I needed. awesome!,positive,4,PROD083,Sports & Outdoors,True,14,2025-04-23
+REV000716,It's fine. satisfactory for the price.,neutral,3,PROD046,Home & Kitchen,False,8,2025-08-29
+REV000199,"Love it! perfect purchase, will buy again.",positive,5,PROD037,Health & Household,True,48,2025-12-11
+REV000691,Decent equipment. Could be better.,neutral,3,PROD042,Pet Supplies,True,7,2025-11-23
+REV000934,Horrible! The gadget is defective.,negative,2,PROD019,Health & Household,True,7,2025-04-22
+REV000341,Perfect! Exactly what I needed. wonderful!,positive,5,PROD039,Electronics,True,1,2025-06-08
+REV000898,"Disappointed. disappointing quality, expected better.",negative,1,PROD040,Health & Household,True,13,2025-07-30
+REV000046,wonderful quality! Exceeded my expectations.,positive,4,PROD053,Pet Supplies,True,15,2025-03-08
+REV000961,Terrible gadget. bad waste of money.,negative,1,PROD085,Tools & Home Improvement,True,41,2025-01-05
+REV000077,"Love it! exceptional purchase, will buy again.",positive,5,PROD096,Home & Kitchen,True,19,2025-02-08
+REV000650,It's okay. Does what it's supposed to do.,neutral,3,PROD089,Health & Household,True,23,2025-01-29
+REV000743,Average gadget. Nothing special.,neutral,3,PROD043,Tools & Home Improvement,False,33,2025-04-01
+REV000231,Fantastic! Would definitely recommend this purchase.,positive,4,PROD022,Pet Supplies,False,36,2025-01-05
+REV000236,Outstanding! The tool is perfect.,positive,5,PROD066,Tools & Home Improvement,True,20,2025-04-17
+REV000458,Amazing appliance! Works perfectly.,positive,4,PROD007,Toys & Games,True,17,2025-06-21
+REV000894,Terrible experience. cheap product quality.,negative,2,PROD058,Toys & Games,True,20,2025-01-12
+REV000071,"Love it! terrific purchase, will buy again.",positive,5,PROD017,Pet Supplies,True,25,2025-10-14
+REV000068,Outstanding! The device is excellent.,positive,5,PROD054,Beauty & Personal Care,True,48,2025-10-05
+REV000671,Acceptable quality. sufficient overall.,neutral,3,PROD022,Sports & Outdoors,False,32,2025-06-05
+REV000688,Mediocre. The product is just passable.,neutral,3,PROD071,Beauty & Personal Care,False,5,2025-07-07
+REV000772,Mediocre. The thing is just sufficient.,neutral,3,PROD081,Health & Household,False,19,2025-06-03
+REV000730,It works. satisfactory but meets basic needs.,neutral,3,PROD011,Tools & Home Improvement,False,46,2025-09-02
+REV000173,superb quality! Exceeded my expectations.,positive,5,PROD032,Beauty & Personal Care,False,33,2025-01-24
+REV000232,excellent quality! Exceeded my expectations.,positive,4,PROD034,Books,False,39,2025-11-07
+REV000683,Average device. Nothing special.,neutral,3,PROD096,Pet Supplies,True,40,2025-11-03
+REV000903,Terrible gadget. cheap waste of money.,negative,2,PROD075,Clothing,False,35,2025-08-09
+REV000675,Acceptable quality. okay overall.,neutral,3,PROD037,Pet Supplies,True,33,2025-02-22
+REV000247,"Love it! superb purchase, will buy again.",positive,5,PROD095,Clothing,False,32,2025-09-01
+REV000452,Fantastic! Would definitely recommend this equipment.,positive,4,PROD005,Beauty & Personal Care,False,44,2025-04-15
+REV000768,Fair device. acceptable performance.,neutral,3,PROD070,Toys & Games,False,17,2025-02-25
+REV000035,Amazing item! Works perfectly.,positive,4,PROD073,Books,True,39,2025-01-25
+REV000661,Works as described. basic but not amazing.,neutral,3,PROD042,Beauty & Personal Care,False,7,2025-02-02
+REV000281,Outstanding! The item is superb.,positive,5,PROD088,Tools & Home Improvement,True,41,2025-06-11
+REV000572,Outstanding! The purchase is exceptional.,positive,4,PROD075,Sports & Outdoors,False,10,2025-12-01
+REV000002,Fantastic! Would definitely recommend this product.,positive,4,PROD004,Home & Kitchen,True,14,2025-08-30
+REV000866,Poor quality. subpar and disappointing.,negative,1,PROD063,Books,False,29,2025-05-06
+REV000379,This product is splendid! Highly recommend it.,positive,5,PROD064,Beauty & Personal Care,True,15,2025-08-27
+REV000094,Perfect! Exactly what I needed. great!,positive,5,PROD044,Sports & Outdoors,True,16,2025-08-16
+REV000874,Worst product ever. defective experience.,negative,2,PROD038,Beauty & Personal Care,False,44,2025-10-24
+REV000509,"Excellent appliance, remarkable value for money.",positive,5,PROD015,Home & Kitchen,True,0,2025-06-07
+REV000416,Fantastic! Would definitely recommend this tool.,positive,5,PROD050,Clothing,True,1,2025-05-27
+REV000025,Best appliance I've ever bought. impressive!,positive,4,PROD028,Tools & Home Improvement,True,46,2025-10-03
+REV000216,"Excellent purchase, brilliant value for money.",positive,5,PROD004,Sports & Outdoors,False,2,2025-02-17
+REV000467,wonderful quality! Exceeded my expectations.,positive,5,PROD082,Toys & Games,False,16,2025-11-15
+REV000715,Mediocre. The thing is just decent.,neutral,3,PROD073,Pet Supplies,True,38,2025-04-12
+REV000978,Complete waste. disappointing and unreliable.,negative,1,PROD051,Beauty & Personal Care,True,1,2024-12-26
+REV000685,Works as described. reasonable but not amazing.,neutral,3,PROD090,Books,True,3,2025-11-24
+REV000406,Amazing tool! Works perfectly.,positive,4,PROD019,Home & Kitchen,True,22,2025-07-05
+REV000791,It's okay. Does what it's supposed to do.,neutral,3,PROD090,Pet Supplies,False,40,2025-05-26
+REV000446,"Love it! outstanding purchase, will buy again.",positive,4,PROD017,Electronics,False,5,2025-11-29
+REV000557,This product is brilliant! Highly recommend it.,positive,4,PROD070,Tools & Home Improvement,False,41,2025-03-01
+REV000595,"Excellent appliance, splendid value for money.",positive,4,PROD088,Health & Household,True,30,2025-02-12
+REV000920,Terrible gadget. awful waste of money.,negative,2,PROD086,Electronics,True,50,2025-02-16
+REV000827,Average device. Nothing special.,neutral,3,PROD079,Beauty & Personal Care,True,41,2025-08-23
+REV000917,Terrible item. useless waste of money.,negative,2,PROD029,Sports & Outdoors,True,44,2025-04-10
+REV000429,outstanding quality! Exceeded my expectations.,positive,5,PROD041,Sports & Outdoors,True,45,2025-11-23
+REV000877,Very useless. Returned it immediately.,negative,1,PROD018,Toys & Games,True,34,2025-02-11
+REV000719,It's fine. passable for the price.,neutral,3,PROD097,Books,True,11,2025-07-27
+REV000855,Poor quality. defective and disappointing.,negative,1,PROD080,Toys & Games,True,29,2025-10-31
+REV000781,Average device. Nothing special.,neutral,3,PROD089,Pet Supplies,False,50,2025-07-25
+REV000293,Outstanding! The gadget is outstanding.,positive,4,PROD027,Toys & Games,True,28,2025-06-22
+REV000878,Terrible experience. cheap product quality.,negative,2,PROD097,Books,False,22,2025-04-30
+REV000734,Average purchase. Nothing special.,neutral,3,PROD026,Electronics,False,0,2025-08-06
+REV000980,Terrible experience. bad product quality.,negative,2,PROD012,Toys & Games,True,36,2025-02-13
+REV000210,Best product I've ever bought. wonderful!,positive,4,PROD084,Toys & Games,False,7,2025-06-21
+REV000549,Great gadget! Very amazing and reliable.,positive,5,PROD086,Home & Kitchen,False,6,2025-03-26
+REV000439,Amazing gadget! Works perfectly.,positive,4,PROD011,Health & Household,True,19,2025-07-06
+REV000471,Great appliance! Very impressive and reliable.,positive,4,PROD086,Toys & Games,False,10,2025-11-16
+REV000840,It works. okay but meets basic needs.,neutral,3,PROD044,Electronics,False,50,2025-01-05
+REV000835,Acceptable quality. okay overall.,neutral,3,PROD047,Tools & Home Improvement,False,5,2025-08-07
+REV000383,Outstanding! The equipment is remarkable.,positive,5,PROD011,Tools & Home Improvement,True,17,2025-01-26
+REV000859,Very awful. Returned it immediately.,negative,2,PROD031,Health & Household,False,26,2025-03-26
+REV000243,superb quality! Exceeded my expectations.,positive,5,PROD058,Tools & Home Improvement,False,39,2025-11-28
+REV000592,Fantastic! Would definitely recommend this appliance.,positive,4,PROD052,Pet Supplies,True,16,2025-03-14
+REV000803,Average accessory. Nothing special.,neutral,3,PROD075,Clothing,True,21,2025-09-14
+REV000712,Fair item. ordinary performance.,neutral,3,PROD024,Toys & Games,True,46,2024-12-30
+REV000061,Outstanding! The equipment is great.,positive,4,PROD032,Sports & Outdoors,True,48,2025-02-07
+REV000271,Best equipment I've ever bought. perfect!,positive,5,PROD088,Tools & Home Improvement,False,44,2025-02-13
+REV000263,Outstanding! The purchase is awesome.,positive,4,PROD005,Beauty & Personal Care,False,11,2025-05-12
+REV000361,"Love it! splendid purchase, will buy again.",positive,4,PROD008,Clothing,True,44,2025-02-20
+REV000869,Complete waste. defective and unreliable.,negative,1,PROD062,Home & Kitchen,False,31,2025-04-17
+REV000235,Perfect! Exactly what I needed. outstanding!,positive,5,PROD078,Sports & Outdoors,False,45,2025-05-27
+REV000717,Mediocre. The tool is just average.,neutral,3,PROD024,Beauty & Personal Care,False,30,2025-02-23
+REV000756,"Not bad, not great. Just tolerable.",neutral,3,PROD009,Sports & Outdoors,False,1,2025-06-06
+REV000658,"Not bad, not great. Just average.",neutral,3,PROD100,Tools & Home Improvement,False,46,2025-03-19
+REV000259,Great gadget! Very remarkable and reliable.,positive,5,PROD018,Home & Kitchen,True,15,2025-01-09
+REV000074,great quality! Exceeded my expectations.,positive,5,PROD096,Tools & Home Improvement,True,22,2025-04-08
+REV000860,Awful item. Not worth it at all.,negative,2,PROD042,Books,True,15,2025-07-14
+REV000491,"Excellent equipment, remarkable value for money.",positive,4,PROD038,Sports & Outdoors,True,35,2025-08-26
+REV000962,Terrible item. terrible waste of money.,negative,2,PROD041,Pet Supplies,False,4,2025-07-11
+REV000375,Perfect! Exactly what I needed. wonderful!,positive,4,PROD081,Sports & Outdoors,False,39,2025-12-01
+REV000251,This product is exceptional! Highly recommend it.,positive,4,PROD025,Electronics,False,20,2025-07-17
+REV000977,Horrible! The purchase is cheap.,negative,2,PROD034,Sports & Outdoors,False,18,2025-03-26
+REV000226,Perfect! Exactly what I needed. brilliant!,positive,5,PROD099,Beauty & Personal Care,True,8,2025-05-26
+REV000832,"Not bad, not great. Just sufficient.",neutral,3,PROD074,Electronics,False,30,2025-07-26
+REV000326,Perfect! Exactly what I needed. splendid!,positive,5,PROD047,Clothing,True,46,2025-10-31
+REV000256,"Excellent tool, great value for money.",positive,5,PROD072,Clothing,False,7,2025-10-04
+REV000676,Decent gadget. Could be better.,neutral,3,PROD029,Books,False,1,2025-12-03
+REV000136,Outstanding! The gadget is excellent.,positive,4,PROD069,Home & Kitchen,False,23,2025-11-24
+REV000710,It's fine. satisfactory for the price.,neutral,3,PROD075,Tools & Home Improvement,True,8,2025-05-22
+REV000550,"Excellent purchase, wonderful value for money.",positive,5,PROD086,Books,True,18,2025-10-28
+REV000891,Horrible! The purchase is worthless.,negative,2,PROD059,Toys & Games,True,0,2025-09-20
+REV000539,This product is great! Highly recommend it.,positive,4,PROD005,Home & Kitchen,True,3,2025-03-16
+REV000559,Outstanding! The accessory is wonderful.,positive,4,PROD002,Books,True,48,2025-09-04
+REV000947,Terrible experience. defective product quality.,negative,2,PROD035,Electronics,False,37,2024-12-26
+REV000741,"Not bad, not great. Just sufficient.",neutral,3,PROD012,Clothing,False,23,2025-06-27
+REV000270,Best tool I've ever bought. impressive!,positive,4,PROD089,Books,True,42,2025-02-13
+REV000943,"Disappointed. disappointing quality, expected better.",negative,2,PROD004,Pet Supplies,True,8,2025-06-20
+REV000829,Average appliance. Nothing special.,neutral,3,PROD092,Clothing,True,2,2025-01-21
+REV000040,Fantastic! Would definitely recommend this accessory.,positive,5,PROD002,Tools & Home Improvement,False,42,2025-02-06
+REV000229,"Excellent device, awesome value for money.",positive,4,PROD045,Tools & Home Improvement,False,5,2025-04-22
+REV000110,Outstanding! The device is excellent.,positive,5,PROD067,Toys & Games,False,40,2025-07-29
+REV000244,"Love it! amazing purchase, will buy again.",positive,4,PROD048,Toys & Games,False,48,2025-02-26
+REV000067,"Love it! remarkable purchase, will buy again.",positive,5,PROD009,Beauty & Personal Care,False,21,2025-09-18
+REV000455,"Excellent equipment, fantastic value for money.",positive,5,PROD078,Home & Kitchen,True,28,2025-04-02
+REV000838,It works. passable but meets basic needs.,neutral,3,PROD018,Electronics,True,1,2025-10-14
+REV000032,Outstanding! The accessory is remarkable.,positive,5,PROD085,Health & Household,True,12,2025-05-15
+REV000900,"Do not buy! poor product, broke quickly.",negative,1,PROD061,Tools & Home Improvement,False,4,2025-10-13
+REV000912,Worst accessory ever. awful experience.,negative,2,PROD075,Toys & Games,True,0,2025-02-23
+REV000554,Perfect! Exactly what I needed. great!,positive,5,PROD100,Clothing,False,35,2025-02-08
+REV000598,Perfect! Exactly what I needed. wonderful!,positive,4,PROD028,Pet Supplies,False,11,2025-11-29
+REV000218,"Excellent appliance, wonderful value for money.",positive,5,PROD098,Home & Kitchen,True,33,2025-06-20
+REV000365,splendid quality! Exceeded my expectations.,positive,5,PROD051,Books,False,13,2025-08-25
+REV000076,"Love it! great purchase, will buy again.",positive,4,PROD073,Books,False,44,2025-04-25
+REV000051,This product is amazing! Highly recommend it.,positive,5,PROD023,Pet Supplies,False,2,2025-02-08
+REV000653,It's fine. reasonable for the price.,neutral,3,PROD083,Toys & Games,False,46,2025-03-23
+REV000185,wonderful quality! Exceeded my expectations.,positive,5,PROD072,Beauty & Personal Care,False,16,2025-11-16
+REV000399,Outstanding! The product is great.,positive,4,PROD019,Clothing,True,2,2025-04-12
+REV000422,This product is brilliant! Highly recommend it.,positive,4,PROD001,Toys & Games,True,8,2025-06-07
+REV000937,Poor quality. broken and disappointing.,negative,1,PROD099,Health & Household,False,12,2025-05-14
+REV000299,splendid quality! Exceeded my expectations.,positive,5,PROD098,Toys & Games,True,23,2025-05-24
+REV000532,wonderful quality! Exceeded my expectations.,positive,5,PROD028,Toys & Games,False,23,2025-05-14
+REV000168,Fantastic! Would definitely recommend this product.,positive,5,PROD027,Clothing,True,49,2025-02-23
+REV000054,"Excellent tool, exceptional value for money.",positive,4,PROD085,Home & Kitchen,False,32,2025-05-22
+REV000521,This product is superb! Highly recommend it.,positive,4,PROD007,Electronics,True,17,2025-03-07
+REV000919,Complete waste. terrible and unreliable.,negative,2,PROD014,Electronics,True,30,2025-02-13
+REV000267,Fantastic! Would definitely recommend this device.,positive,5,PROD023,Pet Supplies,False,27,2025-09-04
+REV000194,Perfect! Exactly what I needed. splendid!,positive,5,PROD100,Beauty & Personal Care,False,10,2025-03-27
+REV000899,Horrible! The purchase is bad.,negative,2,PROD094,Beauty & Personal Care,False,8,2025-10-11
+REV000579,Best product I've ever bought. outstanding!,positive,5,PROD091,Electronics,True,33,2024-12-18
+REV000345,Amazing item! Works perfectly.,positive,4,PROD074,Home & Kitchen,True,23,2025-05-30
+REV000604,Acceptable quality. average overall.,neutral,3,PROD005,Tools & Home Improvement,False,25,2025-12-01
+REV000367,This product is excellent! Highly recommend it.,positive,5,PROD081,Health & Household,True,7,2025-03-05
+REV000418,"Love it! amazing purchase, will buy again.",positive,4,PROD085,Books,False,34,2025-01-12
+REV000994,Poor quality. flimsy and disappointing.,negative,2,PROD006,Health & Household,False,45,2025-09-28
+REV000995,Horrible! The item is inferior.,negative,2,PROD093,Sports & Outdoors,True,22,2025-01-31
+REV000146,Fantastic! Would definitely recommend this gadget.,positive,4,PROD019,Sports & Outdoors,False,11,2025-02-09
+REV000154,Outstanding! The device is great.,positive,4,PROD053,Toys & Games,False,25,2025-07-15
+REV000180,This product is wonderful! Highly recommend it.,positive,4,PROD010,Home & Kitchen,False,29,2025-10-08
+REV000240,Amazing thing! Works perfectly.,positive,5,PROD046,Electronics,True,18,2025-08-25
+REV000242,"Excellent equipment, excellent value for money.",positive,5,PROD007,Pet Supplies,True,23,2025-09-24
+REV000698,Mediocre. The purchase is just passable.,neutral,3,PROD089,Electronics,False,37,2025-11-19
+REV000465,Great thing! Very terrific and reliable.,positive,5,PROD051,Pet Supplies,True,0,2025-09-02
+REV000819,Works as described. reasonable but not amazing.,neutral,3,PROD002,Electronics,True,0,2025-07-13
+REV000951,"Disappointed. faulty quality, expected better.",negative,1,PROD029,Pet Supplies,True,45,2025-10-07
+REV000711,Fair purchase. sufficient performance.,neutral,3,PROD056,Sports & Outdoors,True,20,2025-01-18
+REV000128,Fantastic! Would definitely recommend this equipment.,positive,5,PROD089,Clothing,False,19,2025-03-26
+REV000667,It's okay. Does what it's supposed to do.,neutral,3,PROD035,Tools & Home Improvement,True,46,2025-01-20
+REV000127,Perfect! Exactly what I needed. fantastic!,positive,5,PROD060,Clothing,True,4,2025-07-29
+REV000363,Outstanding! The appliance is superb.,positive,5,PROD010,Home & Kitchen,False,32,2025-05-06
+REV000628,It works. moderate but meets basic needs.,neutral,3,PROD035,Tools & Home Improvement,False,8,2025-12-07
+REV000825,"Not bad, not great. Just decent.",neutral,3,PROD100,Home & Kitchen,False,49,2025-01-15
+REV000599,Perfect! Exactly what I needed. remarkable!,positive,4,PROD031,Books,False,13,2025-04-11
+REV000062,Amazing accessory! Works perfectly.,positive,5,PROD060,Electronics,True,7,2025-08-05
+REV000635,Acceptable quality. standard overall.,neutral,3,PROD021,Beauty & Personal Care,False,14,2025-04-28
+REV000603,Decent device. Could be better.,neutral,3,PROD097,Pet Supplies,True,3,2025-09-10
+REV000725,Acceptable quality. sufficient overall.,neutral,3,PROD100,Clothing,False,10,2025-07-19
+REV000563,remarkable quality! Exceeded my expectations.,positive,5,PROD082,Clothing,False,37,2025-09-19
+REV000779,"Not bad, not great. Just ordinary.",neutral,3,PROD039,Tools & Home Improvement,False,25,2025-10-13
+REV000648,Decent tool. Could be better.,neutral,3,PROD007,Books,True,15,2025-11-04
+REV000029,Best device I've ever bought. great!,positive,4,PROD010,Health & Household,True,3,2025-11-13
+REV000024,remarkable quality! Exceeded my expectations.,positive,4,PROD030,Home & Kitchen,True,21,2025-01-20
+REV000164,"Excellent tool, fantastic value for money.",positive,4,PROD100,Pet Supplies,True,3,2025-03-04
+REV000647,It's okay. Does what it's supposed to do.,neutral,3,PROD067,Home & Kitchen,False,30,2025-11-06
+REV000534,Amazing thing! Works perfectly.,positive,5,PROD080,Books,True,43,2025-05-28
+REV000320,Outstanding! The tool is wonderful.,positive,4,PROD014,Home & Kitchen,True,19,2025-07-30
+REV000524,Amazing gadget! Works perfectly.,positive,5,PROD089,Electronics,False,24,2025-07-16
+REV000913,Worst appliance ever. worthless experience.,negative,2,PROD053,Toys & Games,True,6,2025-04-05
+REV000219,"Excellent gadget, impressive value for money.",positive,5,PROD032,Home & Kitchen,True,47,2025-03-20
+REV000291,Outstanding! The accessory is perfect.,positive,5,PROD061,Books,True,19,2025-12-12
+REV000845,It works. basic but meets basic needs.,neutral,3,PROD076,Home & Kitchen,True,7,2025-08-26
+REV000130,This product is terrific! Highly recommend it.,positive,5,PROD036,Electronics,True,38,2025-08-26
+REV000797,It works. ordinary but meets basic needs.,neutral,3,PROD071,Health & Household,False,22,2025-04-09
+REV000614,It's okay. Does what it's supposed to do.,neutral,3,PROD089,Sports & Outdoors,True,13,2025-04-24
+REV000570,Fantastic! Would definitely recommend this product.,positive,4,PROD022,Clothing,True,33,2025-07-10
+REV000578,Outstanding! The gadget is perfect.,positive,4,PROD062,Books,True,18,2025-10-17
+REV000773,It's fine. passable for the price.,neutral,3,PROD011,Health & Household,True,5,2025-12-07
+REV000203,"Love it! fantastic purchase, will buy again.",positive,4,PROD001,Pet Supplies,False,15,2025-10-03
+REV000810,Decent device. Could be better.,neutral,3,PROD063,Sports & Outdoors,True,21,2025-01-27
+REV000354,Best gadget I've ever bought. excellent!,positive,4,PROD029,Tools & Home Improvement,False,10,2025-08-06
+REV000620,Mediocre. The item is just standard.,neutral,3,PROD011,Sports & Outdoors,False,14,2025-05-24
+REV000624,Acceptable quality. acceptable overall.,neutral,3,PROD009,Health & Household,True,1,2025-07-06
+REV000931,Poor quality. horrible and disappointing.,negative,1,PROD052,Pet Supplies,True,47,2025-03-11
+REV000414,This product is amazing! Highly recommend it.,positive,5,PROD050,Sports & Outdoors,False,12,2025-11-09
+REV000151,Perfect! Exactly what I needed. remarkable!,positive,4,PROD010,Home & Kitchen,False,38,2025-02-28
+REV000727,It works. acceptable but meets basic needs.,neutral,3,PROD015,Sports & Outdoors,True,25,2025-07-14
+REV000287,"Love it! brilliant purchase, will buy again.",positive,4,PROD030,Pet Supplies,False,36,2025-10-17
+REV000749,Acceptable quality. okay overall.,neutral,3,PROD045,Tools & Home Improvement,True,0,2025-11-07
+REV000704,It's okay. Does what it's supposed to do.,neutral,3,PROD068,Clothing,False,31,2025-07-04
+REV000843,It works. satisfactory but meets basic needs.,neutral,3,PROD061,Pet Supplies,True,15,2025-12-09
+REV000312,Amazing thing! Works perfectly.,positive,4,PROD061,Clothing,True,4,2025-11-30
+REV000575,Perfect! Exactly what I needed. awesome!,positive,4,PROD077,Electronics,True,5,2025-08-18
+REV000430,Perfect! Exactly what I needed. excellent!,positive,5,PROD027,Books,True,22,2025-04-25
+REV000881,Poor quality. poor and disappointing.,negative,2,PROD012,Home & Kitchen,False,11,2025-05-11
+REV000533,Fantastic! Would definitely recommend this appliance.,positive,4,PROD072,Electronics,True,42,2025-06-10
+REV000060,This product is outstanding! Highly recommend it.,positive,4,PROD079,Home & Kitchen,False,26,2025-11-02
+REV000777,Average appliance. Nothing special.,neutral,3,PROD060,Sports & Outdoors,False,49,2025-06-11
+REV000867,Complete waste. useless and unreliable.,negative,1,PROD032,Toys & Games,False,37,2025-04-07
+REV000849,Acceptable quality. adequate overall.,neutral,3,PROD071,Sports & Outdoors,False,15,2025-10-08
+REV000728,"Not bad, not great. Just average.",neutral,3,PROD023,Health & Household,True,29,2025-01-30
+REV000822,It's fine. basic for the price.,neutral,3,PROD091,Home & Kitchen,True,38,2025-02-19
+REV000169,Best item I've ever bought. wonderful!,positive,5,PROD001,Health & Household,False,11,2025-02-19
+REV000412,"Love it! wonderful purchase, will buy again.",positive,5,PROD024,Clothing,False,28,2025-03-01
+REV000323,Outstanding! The gadget is excellent.,positive,5,PROD053,Beauty & Personal Care,True,46,2025-09-27
+REV000347,Fantastic! Would definitely recommend this tool.,positive,5,PROD046,Health & Household,True,43,2025-12-11
+REV000087,Great device! Very splendid and reliable.,positive,5,PROD089,Health & Household,False,28,2024-12-23
+REV000072,impressive quality! Exceeded my expectations.,positive,4,PROD018,Health & Household,True,3,2025-04-27
+REV000530,Perfect! Exactly what I needed. splendid!,positive,5,PROD071,Toys & Games,True,50,2025-12-12
+REV000011,Best device I've ever bought. amazing!,positive,5,PROD073,Toys & Games,True,41,2025-08-27
+REV000150,Perfect! Exactly what I needed. impressive!,positive,5,PROD008,Health & Household,False,27,2025-12-01
+REV000454,Best appliance I've ever bought. terrific!,positive,5,PROD090,Home & Kitchen,True,8,2025-05-17
+REV000031,This product is perfect! Highly recommend it.,positive,5,PROD001,Beauty & Personal Care,False,50,2025-08-04
+REV000623,It's okay. Does what it's supposed to do.,neutral,3,PROD085,Clothing,True,13,2025-03-10
+REV000529,"Love it! excellent purchase, will buy again.",positive,5,PROD042,Pet Supplies,True,49,2025-10-31
+REV000470,Outstanding! The product is remarkable.,positive,5,PROD075,Pet Supplies,True,21,2025-12-15
+REV000420,"Excellent thing, awesome value for money.",positive,5,PROD004,Toys & Games,True,36,2025-03-21
+REV000424,wonderful quality! Exceeded my expectations.,positive,5,PROD076,Home & Kitchen,False,19,2025-05-29
+REV000440,Perfect! Exactly what I needed. awesome!,positive,5,PROD012,Tools & Home Improvement,False,11,2025-06-22
+REV000613,Fair tool. ordinary performance.,neutral,3,PROD063,Clothing,False,35,2025-10-01
+REV000234,Best item I've ever bought. great!,positive,5,PROD089,Electronics,True,28,2025-07-15
+REV000432,"Excellent equipment, brilliant value for money.",positive,5,PROD013,Health & Household,True,10,2025-08-03
+REV000543,Fantastic! Would definitely recommend this gadget.,positive,5,PROD098,Health & Household,False,25,2025-11-18
+REV000156,amazing quality! Exceeded my expectations.,positive,5,PROD012,Beauty & Personal Care,True,47,2025-06-23
+REV000607,Mediocre. The gadget is just moderate.,neutral,3,PROD024,Tools & Home Improvement,False,15,2025-05-01
+REV000801,Works as described. passable but not amazing.,neutral,3,PROD097,Clothing,False,33,2025-01-24
+REV000425,"Love it! remarkable purchase, will buy again.",positive,4,PROD082,Health & Household,False,11,2025-12-12
+REV000382,This product is fantastic! Highly recommend it.,positive,4,PROD006,Electronics,False,32,2025-05-10
+REV000273,Outstanding! The accessory is remarkable.,positive,5,PROD061,Tools & Home Improvement,True,48,2025-04-20
+REV000088,Best equipment I've ever bought. outstanding!,positive,4,PROD089,Books,False,42,2025-10-08
+REV000815,Works as described. ordinary but not amazing.,neutral,3,PROD002,Clothing,False,24,2025-11-27
+REV000518,Great device! Very impressive and reliable.,positive,5,PROD026,Books,False,43,2025-06-09
+REV000294,Great device! Very remarkable and reliable.,positive,4,PROD007,Clothing,False,43,2025-10-20
+REV000865,"Disappointed. faulty quality, expected better.",negative,1,PROD082,Pet Supplies,True,36,2025-09-24
+REV000770,Fair product. average performance.,neutral,3,PROD017,Electronics,False,43,2025-01-09
+REV000252,Outstanding! The device is remarkable.,positive,4,PROD053,Tools & Home Improvement,False,47,2025-01-15
+REV000007,This product is impressive! Highly recommend it.,positive,4,PROD099,Clothing,True,14,2025-02-04
+REV000696,"Not bad, not great. Just passable.",neutral,3,PROD040,Health & Household,False,1,2025-06-02
+REV000450,exceptional quality! Exceeded my expectations.,positive,4,PROD037,Tools & Home Improvement,False,26,2025-04-29
+REV000755,Fair thing. decent performance.,neutral,3,PROD093,Toys & Games,True,13,2025-10-06
+REV000126,Fantastic! Would definitely recommend this device.,positive,5,PROD064,Pet Supplies,True,14,2025-08-08
+REV000142,Amazing appliance! Works perfectly.,positive,5,PROD031,Toys & Games,True,43,2025-06-21
+REV000343,Perfect! Exactly what I needed. outstanding!,positive,5,PROD081,Sports & Outdoors,True,40,2025-11-16
+REV000373,remarkable quality! Exceeded my expectations.,positive,5,PROD014,Toys & Games,False,19,2025-02-23
+REV000953,Poor quality. broken and disappointing.,negative,2,PROD065,Clothing,False,42,2025-09-17
+REV000102,"Love it! awesome purchase, will buy again.",positive,4,PROD019,Home & Kitchen,True,10,2025-05-21
+REV000511,Outstanding! The gadget is amazing.,positive,4,PROD079,Books,True,7,2025-07-04
+REV000519,"Love it! brilliant purchase, will buy again.",positive,4,PROD089,Toys & Games,True,48,2025-06-13
+REV000453,Perfect! Exactly what I needed. awesome!,positive,4,PROD048,Electronics,False,50,2025-05-19
+REV000300,This product is exceptional! Highly recommend it.,positive,5,PROD095,Sports & Outdoors,True,16,2025-09-24
+REV000868,Terrible experience. flimsy product quality.,negative,1,PROD054,Electronics,True,30,2025-08-30
+REV000371,"Love it! exceptional purchase, will buy again.",positive,4,PROD067,Health & Household,True,0,2025-12-06
+REV000211,Outstanding! The appliance is remarkable.,positive,5,PROD050,Toys & Games,True,31,2025-12-04
+REV000121,"Love it! amazing purchase, will buy again.",positive,5,PROD034,Toys & Games,False,41,2025-01-25
+REV000172,Best equipment I've ever bought. amazing!,positive,5,PROD003,Toys & Games,True,39,2025-08-07
+REV000108,Perfect! Exactly what I needed. fantastic!,positive,5,PROD098,Tools & Home Improvement,True,29,2025-01-29
+REV000967,Very disappointing. Returned it immediately.,negative,2,PROD041,Tools & Home Improvement,False,30,2025-11-29
+REV000043,Best product I've ever bought. excellent!,positive,5,PROD043,Sports & Outdoors,False,10,2025-07-29
+REV000651,It's fine. adequate for the price.,neutral,3,PROD012,Pet Supplies,False,48,2025-10-31
+REV000105,outstanding quality! Exceeded my expectations.,positive,4,PROD076,Electronics,False,36,2025-01-04
+REV000625,Fair item. tolerable performance.,neutral,3,PROD014,Clothing,True,5,2025-11-15
+REV000626,Acceptable quality. decent overall.,neutral,3,PROD032,Clothing,False,40,2025-02-17
+REV000823,Acceptable quality. satisfactory overall.,neutral,3,PROD024,Home & Kitchen,True,16,2025-05-14
+REV000114,Outstanding! The appliance is terrific.,positive,5,PROD061,Books,False,35,2025-02-27
+REV000469,"Love it! remarkable purchase, will buy again.",positive,5,PROD084,Health & Household,False,16,2025-07-17
+REV000905,Poor quality. broken and disappointing.,negative,2,PROD054,Sports & Outdoors,False,44,2025-11-10
+REV000052,"Excellent tool, remarkable value for money.",positive,5,PROD056,Pet Supplies,True,24,2025-10-06
+REV000107,Perfect! Exactly what I needed. wonderful!,positive,4,PROD043,Toys & Games,True,10,2025-06-01
+REV000946,"Disappointed. awful quality, expected better.",negative,1,PROD022,Electronics,False,2,2025-08-07
+REV000528,Best gadget I've ever bought. brilliant!,positive,5,PROD017,Sports & Outdoors,False,0,2025-06-02
+REV000155,"Excellent tool, superb value for money.",positive,4,PROD086,Clothing,False,9,2025-12-01
+REV000274,Great accessory! Very great and reliable.,positive,4,PROD091,Toys & Games,True,36,2025-02-10
+REV000668,Decent device. Could be better.,neutral,3,PROD067,Home & Kitchen,True,46,2025-04-12
+REV000048,"Love it! splendid purchase, will buy again.",positive,5,PROD049,Electronics,False,14,2025-03-27
+REV000863,Awful tool. Not worth it at all.,negative,2,PROD035,Books,False,8,2024-12-31
+REV000349,perfect quality! Exceeded my expectations.,positive,5,PROD089,Sports & Outdoors,False,26,2025-10-16
+REV000265,"Love it! terrific purchase, will buy again.",positive,5,PROD060,Clothing,True,7,2025-06-02
+REV000805,Decent purchase. Could be better.,neutral,3,PROD005,Pet Supplies,False,46,2025-09-29
+REV000930,Worst product ever. horrible experience.,negative,2,PROD087,Health & Household,True,25,2025-07-27
+REV000576,Fantastic! Would definitely recommend this product.,positive,4,PROD100,Beauty & Personal Care,False,23,2025-01-06
+REV000952,Terrible experience. disappointing product quality.,negative,1,PROD009,Pet Supplies,False,27,2025-04-01
+REV000233,Perfect! Exactly what I needed. awesome!,positive,4,PROD038,Clothing,False,15,2025-11-30
+REV000633,It works. tolerable but meets basic needs.,neutral,3,PROD039,Electronics,False,18,2025-10-16
+REV000856,"Disappointed. terrible quality, expected better.",negative,1,PROD015,Sports & Outdoors,False,31,2025-03-15
+REV000441,"Excellent appliance, perfect value for money.",positive,5,PROD006,Clothing,False,29,2025-04-28
+REV000346,Perfect! Exactly what I needed. amazing!,positive,4,PROD086,Health & Household,False,38,2025-07-01
+REV000721,Mediocre. The equipment is just passable.,neutral,3,PROD093,Toys & Games,False,39,2025-10-03
+REV000033,This product is exceptional! Highly recommend it.,positive,4,PROD008,Toys & Games,True,3,2025-10-10
+REV000858,Terrible product. awful waste of money.,negative,2,PROD069,Sports & Outdoors,True,50,2024-12-29
+REV000179,Fantastic! Would definitely recommend this tool.,positive,5,PROD065,Home & Kitchen,False,29,2025-08-03
+REV000163,remarkable quality! Exceeded my expectations.,positive,4,PROD028,Beauty & Personal Care,False,29,2025-06-07
+REV000366,"Excellent gadget, terrific value for money.",positive,5,PROD044,Tools & Home Improvement,True,36,2025-08-20
+REV000268,superb quality! Exceeded my expectations.,positive,5,PROD024,Sports & Outdoors,False,20,2025-04-21
+REV000939,Poor quality. subpar and disappointing.,negative,2,PROD041,Beauty & Personal Care,False,29,2025-01-02
+REV000820,Average item. Nothing special.,neutral,3,PROD088,Health & Household,False,14,2025-05-09
+REV000879,"Disappointed. terrible quality, expected better.",negative,2,PROD048,Toys & Games,False,31,2025-08-28
+REV000571,Best device I've ever bought. amazing!,positive,4,PROD058,Pet Supplies,False,30,2025-03-12
+REV000784,Average appliance. Nothing special.,neutral,3,PROD023,Clothing,False,4,2025-10-17
+REV000241,Best product I've ever bought. brilliant!,positive,5,PROD014,Beauty & Personal Care,True,16,2025-06-20
+REV000804,It's okay. Does what it's supposed to do.,neutral,3,PROD066,Health & Household,False,26,2025-06-13
+REV000506,Perfect! Exactly what I needed. great!,positive,4,PROD016,Health & Household,True,6,2025-07-09
+REV000851,Horrible! The product is awful.,negative,1,PROD001,Sports & Outdoors,True,45,2025-11-13
+REV000104,Perfect! Exactly what I needed. amazing!,positive,5,PROD006,Beauty & Personal Care,False,38,2025-04-22
+REV000504,"Excellent tool, outstanding value for money.",positive,5,PROD036,Electronics,True,35,2025-11-09
+REV000621,"Not bad, not great. Just satisfactory.",neutral,3,PROD091,Clothing,False,17,2025-07-30
+REV000161,Fantastic! Would definitely recommend this gadget.,positive,4,PROD004,Sports & Outdoors,False,44,2025-05-22
+REV000933,Horrible! The thing is bad.,negative,2,PROD076,Clothing,False,22,2025-08-15
+REV000178,"Excellent appliance, perfect value for money.",positive,5,PROD009,Health & Household,False,40,2025-05-19
+REV000989,"Do not buy! defective product, broke quickly.",negative,2,PROD044,Health & Household,True,5,2025-05-26
+REV000495,"Excellent item, superb value for money.",positive,5,PROD013,Electronics,True,8,2025-11-19
+REV000774,It works. acceptable but meets basic needs.,neutral,3,PROD040,Health & Household,False,14,2025-04-08
+REV000983,Terrible experience. poor product quality.,negative,1,PROD094,Books,False,11,2025-07-12
+REV000213,Great tool! Very fantastic and reliable.,positive,4,PROD014,Home & Kitchen,False,42,2025-05-15
+REV000637,Fair gadget. tolerable performance.,neutral,3,PROD053,Books,True,11,2025-02-22
+REV000800,Mediocre. The tool is just average.,neutral,3,PROD015,Pet Supplies,False,44,2025-01-24
+REV000484,"Excellent appliance, awesome value for money.",positive,4,PROD046,Books,True,25,2024-12-24
+REV000369,"Excellent item, fantastic value for money.",positive,4,PROD048,Sports & Outdoors,True,25,2025-10-31
+REV000669,Fair device. standard performance.,neutral,3,PROD025,Tools & Home Improvement,True,36,2025-10-31
+REV000959,Complete waste. poor and unreliable.,negative,1,PROD020,Books,True,15,2025-05-22
+REV000846,Mediocre. The thing is just tolerable.,neutral,3,PROD029,Home & Kitchen,True,27,2025-06-05
+REV000400,"Excellent item, great value for money.",positive,5,PROD075,Home & Kitchen,True,40,2025-07-04
+REV000301,Best device I've ever bought. perfect!,positive,5,PROD043,Books,False,36,2025-04-19
+REV000940,"Do not buy! defective product, broke quickly.",negative,1,PROD091,Sports & Outdoors,False,27,2025-02-21
+REV000895,Terrible experience. defective product quality.,negative,1,PROD099,Clothing,True,1,2025-01-26
+REV000673,"Not bad, not great. Just standard.",neutral,3,PROD093,Toys & Games,True,36,2025-09-20
+REV000807,Mediocre. The gadget is just okay.,neutral,3,PROD063,Home & Kitchen,True,32,2025-01-23
+REV000348,Fantastic! Would definitely recommend this item.,positive,5,PROD087,Sports & Outdoors,False,7,2025-04-16
+REV000842,Works as described. passable but not amazing.,neutral,3,PROD030,Home & Kitchen,True,47,2025-02-25
+REV000225,Perfect! Exactly what I needed. splendid!,positive,5,PROD017,Pet Supplies,True,4,2025-05-22
+REV000520,Fantastic! Would definitely recommend this equipment.,positive,5,PROD087,Tools & Home Improvement,False,27,2024-12-21
+REV000729,Decent purchase. Could be better.,neutral,3,PROD092,Home & Kitchen,True,7,2025-12-11
+REV000449,Fantastic! Would definitely recommend this accessory.,positive,4,PROD054,Home & Kitchen,False,9,2025-02-28
+REV000353,Outstanding! The appliance is remarkable.,positive,5,PROD063,Sports & Outdoors,True,36,2024-12-30
+REV000481,"Excellent accessory, splendid value for money.",positive,4,PROD025,Electronics,True,40,2025-04-21
+REV000197,Perfect! Exactly what I needed. awesome!,positive,4,PROD004,Beauty & Personal Care,True,25,2025-08-29
+REV000295,outstanding quality! Exceeded my expectations.,positive,4,PROD093,Tools & Home Improvement,True,30,2025-03-31
+REV000166,Outstanding! The device is fantastic.,positive,5,PROD097,Tools & Home Improvement,True,22,2025-07-23
+REV000964,Horrible! The item is flimsy.,negative,2,PROD031,Pet Supplies,True,49,2025-05-24
+REV000778,Mediocre. The purchase is just basic.,neutral,3,PROD066,Home & Kitchen,False,45,2025-02-07
+REV000460,"Love it! terrific purchase, will buy again.",positive,5,PROD076,Tools & Home Improvement,False,22,2025-03-08
+REV000356,Great product! Very terrific and reliable.,positive,5,PROD098,Health & Household,True,27,2025-02-05
+REV000662,Fair item. satisfactory performance.,neutral,3,PROD006,Sports & Outdoors,True,2,2025-03-28
+REV001000,Horrible! The gadget is inferior.,negative,2,PROD077,Electronics,False,2,2025-11-15
+REV000507,This product is brilliant! Highly recommend it.,positive,5,PROD001,Home & Kitchen,False,32,2025-09-28
+REV000767,Decent purchase. Could be better.,neutral,3,PROD036,Home & Kitchen,True,39,2025-09-27
+REV000485,Amazing purchase! Works perfectly.,positive,4,PROD028,Electronics,True,7,2025-06-20
+REV000428,"Love it! exceptional purchase, will buy again.",positive,4,PROD079,Books,True,31,2025-02-25
+REV000906,Terrible gadget. awful waste of money.,negative,1,PROD064,Home & Kitchen,False,37,2025-08-18
+REV000927,Horrible! The accessory is awful.,negative,1,PROD018,Health & Household,False,45,2025-05-11
+REV000066,Best tool I've ever bought. wonderful!,positive,4,PROD070,Home & Kitchen,True,9,2025-04-12
+REV000567,Amazing purchase! Works perfectly.,positive,5,PROD021,Toys & Games,True,42,2025-04-11
+REV000324,Fantastic! Would definitely recommend this purchase.,positive,4,PROD088,Beauty & Personal Care,True,8,2025-05-01
+REV000591,brilliant quality! Exceeded my expectations.,positive,4,PROD093,Tools & Home Improvement,False,22,2025-05-05
+REV000769,Decent device. Could be better.,neutral,3,PROD022,Home & Kitchen,False,39,2025-06-06
+REV000020,Perfect! Exactly what I needed. terrific!,positive,4,PROD098,Tools & Home Improvement,True,8,2025-11-17
+REV000541,Outstanding! The product is wonderful.,positive,5,PROD050,Home & Kitchen,True,41,2025-10-27
+REV000063,Perfect! Exactly what I needed. impressive!,positive,4,PROD072,Pet Supplies,False,48,2025-07-29
+REV000238,Fantastic! Would definitely recommend this device.,positive,5,PROD021,Toys & Games,False,12,2025-03-06
+REV000737,Mediocre. The device is just okay.,neutral,3,PROD071,Clothing,True,3,2025-03-19
+REV000695,Average product. Nothing special.,neutral,3,PROD032,Pet Supplies,True,18,2024-12-22
+REV000627,Works as described. ordinary but not amazing.,neutral,3,PROD004,Electronics,False,20,2025-08-15
+REV000606,It's okay. Does what it's supposed to do.,neutral,3,PROD049,Pet Supplies,True,20,2025-06-18
+REV000875,Poor quality. faulty and disappointing.,negative,1,PROD095,Electronics,False,3,2025-02-09
+REV000498,"Love it! amazing purchase, will buy again.",positive,5,PROD090,Electronics,True,6,2025-07-16
+REV000410,Amazing appliance! Works perfectly.,positive,4,PROD017,Home & Kitchen,False,7,2025-01-05
+REV000500,"Love it! great purchase, will buy again.",positive,4,PROD015,Beauty & Personal Care,False,2,2025-01-16
+REV000038,Perfect! Exactly what I needed. exceptional!,positive,4,PROD013,Home & Kitchen,True,32,2025-04-29
+REV000896,Poor quality. defective and disappointing.,negative,2,PROD025,Health & Household,False,38,2025-10-20
+REV000568,"Excellent item, remarkable value for money.",positive,5,PROD062,Health & Household,False,13,2025-10-13
+REV000611,It's fine. ordinary for the price.,neutral,3,PROD049,Books,True,47,2025-03-01
+REV000593,Great accessory! Very amazing and reliable.,positive,5,PROD010,Tools & Home Improvement,False,21,2025-02-12
+REV000902,Terrible experience. worthless product quality.,negative,2,PROD026,Sports & Outdoors,False,18,2025-09-24
+REV000426,Amazing thing! Works perfectly.,positive,5,PROD023,Beauty & Personal Care,False,46,2025-12-02
+REV000948,Complete waste. faulty and unreliable.,negative,2,PROD042,Pet Supplies,True,31,2025-02-04
+REV000904,Terrible product. worthless waste of money.,negative,1,PROD020,Clothing,False,40,2025-11-05
+REV000915,Poor quality. cheap and disappointing.,negative,1,PROD003,Health & Household,False,19,2025-12-03
+REV000106,Perfect! Exactly what I needed. brilliant!,positive,4,PROD036,Sports & Outdoors,False,40,2025-08-23
+REV000009,exceptional quality! Exceeded my expectations.,positive,5,PROD069,Books,True,29,2025-06-27
+REV000342,"Love it! awesome purchase, will buy again.",positive,4,PROD067,Sports & Outdoors,True,21,2025-09-27
+REV000053,Best equipment I've ever bought. excellent!,positive,4,PROD001,Tools & Home Improvement,True,23,2025-07-23
+REV000402,Outstanding! The tool is remarkable.,positive,5,PROD041,Health & Household,False,14,2025-01-22
+REV000584,Perfect! Exactly what I needed. splendid!,positive,4,PROD013,Books,False,50,2025-06-06
+REV000302,Great tool! Very impressive and reliable.,positive,5,PROD033,Health & Household,False,29,2025-03-11
+REV000207,Great purchase! Very wonderful and reliable.,positive,5,PROD100,Health & Household,False,40,2025-03-18
+REV000249,Fantastic! Would definitely recommend this product.,positive,5,PROD077,Health & Household,False,41,2025-10-07
+REV000861,Complete waste. flimsy and unreliable.,negative,1,PROD010,Health & Household,False,3,2025-07-26
+REV000837,It's fine. decent for the price.,neutral,3,PROD014,Toys & Games,False,5,2025-11-03
+REV000021,Great gadget! Very perfect and reliable.,positive,5,PROD068,Pet Supplies,False,13,2025-09-17
+REV000483,Best appliance I've ever bought. fantastic!,positive,4,PROD094,Tools & Home Improvement,False,27,2025-12-01
+REV000497,superb quality! Exceeded my expectations.,positive,4,PROD059,Clothing,False,44,2025-08-16
+REV000456,Perfect! Exactly what I needed. splendid!,positive,5,PROD048,Electronics,True,4,2025-05-23
+REV000720,Mediocre. The tool is just average.,neutral,3,PROD059,Books,False,25,2025-01-05
+REV000757,Acceptable quality. satisfactory overall.,neutral,3,PROD022,Pet Supplies,False,11,2025-10-15
+REV000157,Great thing! Very excellent and reliable.,positive,4,PROD072,Tools & Home Improvement,False,42,2025-02-15
+REV000171,Outstanding! The appliance is excellent.,positive,4,PROD010,Toys & Games,False,36,2025-07-10
+REV000991,Complete waste. bad and unreliable.,negative,2,PROD079,Clothing,False,27,2025-03-09
+REV000023,wonderful quality! Exceeded my expectations.,positive,4,PROD076,Tools & Home Improvement,True,37,2025-04-06
+REV000921,Terrible experience. flimsy product quality.,negative,1,PROD024,Toys & Games,True,5,2025-02-27
+REV000486,Outstanding! The gadget is awesome.,positive,4,PROD099,Tools & Home Improvement,True,38,2025-01-08
+REV000152,"Love it! fantastic purchase, will buy again.",positive,4,PROD082,Pet Supplies,False,24,2025-10-16
+REV000909,Worst product ever. horrible experience.,negative,1,PROD035,Toys & Games,False,40,2025-06-15
+REV000309,"Excellent appliance, superb value for money.",positive,4,PROD073,Books,True,19,2025-11-30
+REV000089,Perfect! Exactly what I needed. brilliant!,positive,5,PROD045,Beauty & Personal Care,False,22,2025-12-09
+REV000968,"Disappointed. flimsy quality, expected better.",negative,1,PROD047,Health & Household,False,19,2024-12-25
+REV000552,Fantastic! Would definitely recommend this tool.,positive,4,PROD041,Beauty & Personal Care,True,0,2025-05-24
+REV000642,Decent appliance. Could be better.,neutral,3,PROD048,Health & Household,True,21,2025-01-25
+REV000447,Amazing purchase! Works perfectly.,positive,5,PROD077,Clothing,False,46,2025-01-18
+REV000248,Fantastic! Would definitely recommend this appliance.,positive,5,PROD003,Toys & Games,False,43,2025-02-09
+REV000666,It's okay. Does what it's supposed to do.,neutral,3,PROD096,Beauty & Personal Care,False,50,2025-12-12
+REV000149,Great item! Very exceptional and reliable.,positive,5,PROD058,Tools & Home Improvement,True,39,2025-01-06
+REV000665,Average device. Nothing special.,neutral,3,PROD084,Health & Household,True,29,2025-11-07
+REV000493,"Love it! amazing purchase, will buy again.",positive,5,PROD010,Home & Kitchen,False,41,2025-04-12
+REV000215,Fantastic! Would definitely recommend this gadget.,positive,5,PROD082,Electronics,True,42,2025-11-06
+REV000028,outstanding quality! Exceeded my expectations.,positive,5,PROD025,Tools & Home Improvement,False,8,2025-07-19
+REV000193,Great gadget! Very outstanding and reliable.,positive,4,PROD061,Books,False,43,2025-10-03
+REV000713,"Not bad, not great. Just sufficient.",neutral,3,PROD053,Clothing,False,47,2025-11-06
+REV000857,Terrible tool. terrible waste of money.,negative,1,PROD037,Books,False,16,2025-06-04
+REV000115,Amazing thing! Works perfectly.,positive,5,PROD066,Sports & Outdoors,True,17,2025-07-15
+REV000196,Best purchase I've ever bought. amazing!,positive,4,PROD035,Health & Household,True,27,2025-01-30
+REV000015,Great accessory! Very fantastic and reliable.,positive,5,PROD002,Home & Kitchen,False,49,2025-11-08
+REV000139,"Love it! excellent purchase, will buy again.",positive,4,PROD039,Health & Household,True,6,2025-04-14
+REV000129,Perfect! Exactly what I needed. amazing!,positive,5,PROD049,Pet Supplies,False,36,2025-05-15
+REV000090,Best gadget I've ever bought. fantastic!,positive,5,PROD030,Home & Kitchen,True,20,2025-02-14
+REV000310,This product is amazing! Highly recommend it.,positive,4,PROD049,Beauty & Personal Care,False,3,2025-11-06
+REV000992,Horrible! The purchase is worthless.,negative,2,PROD072,Health & Household,True,12,2025-03-01
+REV000692,Acceptable quality. standard overall.,neutral,3,PROD045,Books,False,22,2025-10-15
+REV000707,Decent purchase. Could be better.,neutral,3,PROD044,Beauty & Personal Care,True,5,2025-06-28
+REV000824,It works. satisfactory but meets basic needs.,neutral,3,PROD082,Health & Household,False,49,2025-07-21
+REV000708,Fair thing. satisfactory performance.,neutral,3,PROD081,Books,False,15,2025-10-04
+REV000370,Amazing item! Works perfectly.,positive,5,PROD091,Home & Kitchen,True,13,2025-08-16
+REV000632,Fair purchase. moderate performance.,neutral,3,PROD045,Clothing,False,34,2024-12-19
+REV000634,It's fine. tolerable for the price.,neutral,3,PROD071,Toys & Games,True,26,2025-09-28
+REV000311,"Love it! amazing purchase, will buy again.",positive,4,PROD056,Toys & Games,True,33,2025-01-05
+REV000499,Fantastic! Would definitely recommend this appliance.,positive,5,PROD024,Pet Supplies,False,49,2025-06-16
+REV000744,It's fine. basic for the price.,neutral,3,PROD014,Pet Supplies,True,30,2025-12-02
+REV000976,"Do not buy! poor product, broke quickly.",negative,1,PROD092,Sports & Outdoors,False,50,2025-05-27
+REV000763,It works. standard but meets basic needs.,neutral,3,PROD015,Electronics,False,2,2025-12-01
+REV000674,It's fine. standard for the price.,neutral,3,PROD096,Clothing,False,28,2025-08-01
+REV000415,Great product! Very splendid and reliable.,positive,4,PROD049,Toys & Games,False,34,2025-08-20
+REV000709,Works as described. standard but not amazing.,neutral,3,PROD078,Toys & Games,False,34,2025-02-20
+REV000472,Best appliance I've ever bought. amazing!,positive,4,PROD017,Clothing,True,43,2025-06-04
+REV000489,Great thing! Very fantastic and reliable.,positive,4,PROD078,Sports & Outdoors,False,6,2025-09-02
+REV000672,Works as described. ordinary but not amazing.,neutral,3,PROD057,Toys & Games,False,35,2025-05-30
+REV000176,Amazing purchase! Works perfectly.,positive,4,PROD033,Books,True,38,2025-03-03
+REV000014,"Love it! impressive purchase, will buy again.",positive,4,PROD088,Beauty & Personal Care,True,24,2025-06-28
+REV000120,terrific quality! Exceeded my expectations.,positive,5,PROD013,Tools & Home Improvement,False,0,2025-02-26
+REV000405,Best item I've ever bought. terrific!,positive,5,PROD012,Sports & Outdoors,False,45,2025-12-06
+REV000006,Outstanding! The accessory is amazing.,positive,4,PROD038,Pet Supplies,False,36,2025-03-23
+REV000019,"Excellent gadget, awesome value for money.",positive,4,PROD031,Electronics,True,36,2025-01-24
+REV000548,Amazing purchase! Works perfectly.,positive,5,PROD086,Pet Supplies,True,48,2025-09-22
+REV000916,"Do not buy! cheap product, broke quickly.",negative,2,PROD077,Tools & Home Improvement,False,11,2025-12-13
+REV000109,Best item I've ever bought. wonderful!,positive,5,PROD099,Beauty & Personal Care,True,42,2025-09-18
+REV000690,It works. standard but meets basic needs.,neutral,3,PROD026,Tools & Home Improvement,True,15,2025-01-20
+REV000266,Perfect! Exactly what I needed. impressive!,positive,4,PROD092,Sports & Outdoors,True,47,2025-06-05
+REV000619,Decent purchase. Could be better.,neutral,3,PROD022,Toys & Games,False,40,2025-10-24
+REV000765,Decent thing. Could be better.,neutral,3,PROD098,Clothing,True,20,2025-03-27
+REV000081,This product is terrific! Highly recommend it.,positive,5,PROD063,Home & Kitchen,False,23,2025-11-05
+REV000190,brilliant quality! Exceeded my expectations.,positive,5,PROD095,Tools & Home Improvement,True,42,2025-06-05
+REV000988,"Disappointed. subpar quality, expected better.",negative,2,PROD017,Tools & Home Improvement,True,37,2025-03-16
+REV000192,Outstanding! The device is wonderful.,positive,4,PROD057,Pet Supplies,False,48,2025-08-01
+REV000830,Average gadget. Nothing special.,neutral,3,PROD100,Health & Household,True,31,2025-03-01
+REV000910,"Disappointed. bad quality, expected better.",negative,1,PROD082,Home & Kitchen,True,49,2025-11-01
+REV000272,"Excellent device, exceptional value for money.",positive,5,PROD029,Sports & Outdoors,False,9,2025-08-04
+REV000828,Average accessory. Nothing special.,neutral,3,PROD099,Beauty & Personal Care,True,39,2025-11-09
+REV000639,It works. fair but meets basic needs.,neutral,3,PROD003,Sports & Outdoors,True,34,2024-12-26
+REV000461,fantastic quality! Exceeded my expectations.,positive,5,PROD050,Electronics,True,36,2025-04-03
+REV000687,Decent equipment. Could be better.,neutral,3,PROD019,Sports & Outdoors,False,5,2025-08-15
+REV000776,"Not bad, not great. Just tolerable.",neutral,3,PROD059,Health & Household,True,4,2025-08-15
+REV000466,Great thing! Very impressive and reliable.,positive,5,PROD078,Clothing,False,43,2025-02-08
+REV000742,Average equipment. Nothing special.,neutral,3,PROD071,Home & Kitchen,False,30,2025-02-21
+REV000602,Mediocre. The appliance is just reasonable.,neutral,3,PROD074,Clothing,False,11,2025-09-02
+REV000322,excellent quality! Exceeded my expectations.,positive,5,PROD046,Tools & Home Improvement,True,38,2025-10-17
+REV000305,This product is outstanding! Highly recommend it.,positive,4,PROD059,Toys & Games,True,39,2025-11-06
+REV000722,Mediocre. The accessory is just ordinary.,neutral,3,PROD083,Electronics,True,28,2025-08-05
+REV000427,"Love it! perfect purchase, will buy again.",positive,5,PROD090,Pet Supplies,False,49,2025-10-01
+REV000897,Worst purchase ever. subpar experience.,negative,1,PROD092,Beauty & Personal Care,False,24,2025-06-23
+REV000876,Worst thing ever. inferior experience.,negative,2,PROD006,Toys & Games,False,11,2025-11-11
+REV000403,"Love it! splendid purchase, will buy again.",positive,4,PROD014,Sports & Outdoors,True,10,2025-08-02
+REV000187,"Love it! exceptional purchase, will buy again.",positive,5,PROD040,Tools & Home Improvement,False,41,2025-06-01
+REV000806,Decent appliance. Could be better.,neutral,3,PROD075,Sports & Outdoors,True,42,2025-05-13
+REV000184,Outstanding! The tool is splendid.,positive,5,PROD087,Pet Supplies,True,50,2025-11-03
+REV000474,Best gadget I've ever bought. exceptional!,positive,5,PROD060,Home & Kitchen,False,3,2025-11-04
+REV000678,It works. reasonable but meets basic needs.,neutral,3,PROD018,Clothing,False,37,2025-04-21
+REV000759,Average device. Nothing special.,neutral,3,PROD048,Health & Household,False,13,2025-09-09
+REV000117,"Excellent accessory, wonderful value for money.",positive,5,PROD098,Tools & Home Improvement,False,29,2025-05-28
+REV000017,Great item! Very awesome and reliable.,positive,4,PROD081,Clothing,True,9,2025-06-24
+REV000516,Fantastic! Would definitely recommend this device.,positive,5,PROD036,Beauty & Personal Care,False,18,2025-08-03
+REV000788,"Not bad, not great. Just decent.",neutral,3,PROD087,Clothing,False,45,2025-06-09
+REV000084,Amazing appliance! Works perfectly.,positive,5,PROD073,Pet Supplies,False,21,2024-12-29
+REV000600,Amazing thing! Works perfectly.,positive,4,PROD046,Sports & Outdoors,True,7,2025-01-24
+REV000261,This product is brilliant! Highly recommend it.,positive,4,PROD053,Health & Household,False,41,2025-03-27
+REV000364,Perfect! Exactly what I needed. great!,positive,5,PROD075,Electronics,True,46,2025-08-06
+REV000260,Amazing item! Works perfectly.,positive,4,PROD053,Toys & Games,False,6,2025-11-28
+REV000833,Acceptable quality. moderate overall.,neutral,3,PROD070,Books,True,24,2025-12-02
+REV000880,Horrible! The accessory is useless.,negative,1,PROD087,Tools & Home Improvement,False,28,2025-10-28
+REV000738,Works as described. okay but not amazing.,neutral,3,PROD005,Sports & Outdoors,True,42,2025-10-06
+REV000677,Decent accessory. Could be better.,neutral,3,PROD066,Tools & Home Improvement,True,6,2025-01-03
+REV000476,This product is terrific! Highly recommend it.,positive,5,PROD018,Books,False,26,2025-10-02
+REV000097,Perfect! Exactly what I needed. awesome!,positive,5,PROD039,Pet Supplies,False,19,2025-10-02
+REV000423,"Excellent product, excellent value for money.",positive,4,PROD019,Pet Supplies,True,49,2025-02-09
+REV000436,Amazing equipment! Works perfectly.,positive,5,PROD090,Tools & Home Improvement,False,42,2025-05-08
+REV000523,"Excellent appliance, terrific value for money.",positive,4,PROD014,Pet Supplies,True,47,2025-11-11
+REV000111,Amazing accessory! Works perfectly.,positive,4,PROD017,Clothing,False,44,2025-08-20
+REV000911,Poor quality. faulty and disappointing.,negative,1,PROD070,Toys & Games,False,43,2025-05-18
+REV000047,Outstanding! The purchase is excellent.,positive,4,PROD095,Toys & Games,False,42,2025-04-21
+REV000079,remarkable quality! Exceeded my expectations.,positive,4,PROD088,Pet Supplies,True,50,2025-09-30
+REV000565,Amazing equipment! Works perfectly.,positive,5,PROD046,Toys & Games,False,50,2025-08-18
+REV000049,"Excellent device, fantastic value for money.",positive,5,PROD029,Electronics,True,25,2025-06-01
+REV000990,"Do not buy! bad product, broke quickly.",negative,2,PROD041,Electronics,True,31,2025-05-07
+REV000303,"Love it! perfect purchase, will buy again.",positive,5,PROD063,Sports & Outdoors,True,33,2025-01-01
+REV000438,This product is superb! Highly recommend it.,positive,5,PROD038,Pet Supplies,False,12,2025-02-02
+REV000536,Perfect! Exactly what I needed. excellent!,positive,5,PROD084,Books,False,32,2025-01-26
+REV000255,Great device! Very fantastic and reliable.,positive,5,PROD039,Clothing,True,44,2025-12-10
+REV000862,Awful thing. Not worth it at all.,negative,1,PROD059,Sports & Outdoors,False,23,2025-02-22
+REV000890,"Do not buy! disappointing product, broke quickly.",negative,2,PROD070,Sports & Outdoors,False,7,2024-12-27
+REV000701,Decent tool. Could be better.,neutral,3,PROD014,Electronics,False,41,2025-06-30
+REV000131,Amazing tool! Works perfectly.,positive,5,PROD029,Books,False,43,2025-11-17
+REV000153,Perfect! Exactly what I needed. brilliant!,positive,5,PROD056,Home & Kitchen,True,41,2025-11-13
+REV000308,Amazing thing! Works perfectly.,positive,4,PROD068,Clothing,False,17,2025-07-06
+REV000490,Best item I've ever bought. amazing!,positive,4,PROD064,Books,True,49,2025-04-28
+REV000949,Worst accessory ever. inferior experience.,negative,1,PROD098,Toys & Games,True,39,2025-05-17
+REV000082,"Love it! superb purchase, will buy again.",positive,5,PROD094,Tools & Home Improvement,False,39,2025-09-16
+REV000448,Outstanding! The equipment is brilliant.,positive,4,PROD071,Toys & Games,False,33,2025-08-06
+REV000480,Outstanding! The equipment is great.,positive,5,PROD001,Electronics,True,46,2025-06-24
+REV000298,Perfect! Exactly what I needed. brilliant!,positive,5,PROD040,Clothing,False,32,2025-08-26
+REV000086,Great accessory! Very excellent and reliable.,positive,5,PROD025,Home & Kitchen,True,46,2025-07-11
+REV000538,Outstanding! The item is terrific.,positive,4,PROD027,Tools & Home Improvement,False,41,2025-01-20
+REV000956,"Disappointed. flimsy quality, expected better.",negative,2,PROD079,Beauty & Personal Care,True,33,2025-03-27
+REV000645,It's fine. standard for the price.,neutral,3,PROD032,Electronics,True,29,2025-02-01
+REV000540,Great thing! Very amazing and reliable.,positive,5,PROD030,Clothing,False,24,2025-08-02
+REV000508,Perfect! Exactly what I needed. wonderful!,positive,4,PROD007,Books,False,21,2025-09-27
+REV000159,exceptional quality! Exceeded my expectations.,positive,5,PROD028,Sports & Outdoors,False,14,2025-02-08
+REV000731,Mediocre. The equipment is just adequate.,neutral,3,PROD071,Beauty & Personal Care,True,49,2025-03-12
+REV000703,Fair purchase. acceptable performance.,neutral,3,PROD026,Tools & Home Improvement,False,35,2025-12-14
+REV000664,Fair thing. basic performance.,neutral,3,PROD033,Electronics,False,14,2025-10-21
+REV000230,Great purchase! Very fantastic and reliable.,positive,4,PROD081,Clothing,True,32,2025-11-08
+REV000693,It's okay. Does what it's supposed to do.,neutral,3,PROD022,Toys & Games,False,39,2025-02-27
+REV000475,Perfect! Exactly what I needed. awesome!,positive,4,PROD065,Home & Kitchen,False,33,2025-05-16
+REV000350,Fantastic! Would definitely recommend this equipment.,positive,4,PROD024,Health & Household,True,35,2025-03-10
+REV000526,"Excellent thing, splendid value for money.",positive,4,PROD070,Pet Supplies,True,49,2025-03-24
+REV000042,"Excellent gadget, outstanding value for money.",positive,4,PROD065,Health & Household,False,3,2025-01-31
+REV000096,outstanding quality! Exceeded my expectations.,positive,5,PROD072,Beauty & Personal Care,True,49,2025-09-08
+REV000437,Amazing product! Works perfectly.,positive,5,PROD051,Pet Supplies,False,9,2025-01-11
+REV000646,Fair device. satisfactory performance.,neutral,3,PROD061,Beauty & Personal Care,False,20,2025-03-06
+REV000445,Great accessory! Very exceptional and reliable.,positive,4,PROD074,Pet Supplies,True,7,2025-08-01
+REV000191,Fantastic! Would definitely recommend this purchase.,positive,4,PROD021,Sports & Outdoors,True,46,2025-07-27
+REV000629,Fair thing. adequate performance.,neutral,3,PROD077,Health & Household,False,33,2025-11-07
+REV000378,This product is terrific! Highly recommend it.,positive,5,PROD027,Tools & Home Improvement,True,47,2025-07-03
+REV000831,It's okay. Does what it's supposed to do.,neutral,3,PROD086,Beauty & Personal Care,False,9,2025-12-08
+REV000433,This product is fantastic! Highly recommend it.,positive,4,PROD041,Clothing,True,4,2025-06-08
+REV000775,Works as described. moderate but not amazing.,neutral,3,PROD034,Toys & Games,False,11,2025-12-08
+REV000093,Great purchase! Very fantastic and reliable.,positive,4,PROD082,Health & Household,True,0,2025-10-04
+REV000434,Outstanding! The item is perfect.,positive,4,PROD071,Home & Kitchen,False,38,2025-10-25
+REV000615,It works. moderate but meets basic needs.,neutral,3,PROD058,Toys & Games,False,23,2025-06-17
+REV000577,Amazing appliance! Works perfectly.,positive,5,PROD099,Beauty & Personal Care,False,37,2025-12-06
+REV000275,Great accessory! Very awesome and reliable.,positive,4,PROD026,Pet Supplies,True,10,2025-05-31
+REV000488,Perfect! Exactly what I needed. remarkable!,positive,5,PROD027,Electronics,False,26,2025-11-18
+REV000960,Horrible! The equipment is defective.,negative,2,PROD055,Electronics,True,10,2025-05-03
+REV000907,"Disappointed. broken quality, expected better.",negative,2,PROD089,Home & Kitchen,False,32,2025-10-05
+REV000457,"Love it! splendid purchase, will buy again.",positive,5,PROD073,Electronics,True,12,2025-03-27
+REV000502,Outstanding! The device is impressive.,positive,4,PROD062,Toys & Games,False,9,2025-09-26
+REV000205,Outstanding! The appliance is terrific.,positive,4,PROD006,Beauty & Personal Care,False,16,2024-12-23
+REV000525,Great product! Very excellent and reliable.,positive,5,PROD096,Clothing,True,39,2025-07-29
+REV000377,"Love it! outstanding purchase, will buy again.",positive,5,PROD083,Home & Kitchen,True,35,2025-10-18
+REV000853,Very inferior. Returned it immediately.,negative,2,PROD031,Sports & Outdoors,True,38,2025-03-17
+REV000099,"Love it! outstanding purchase, will buy again.",positive,4,PROD071,Home & Kitchen,True,0,2025-07-12
+REV000682,Acceptable quality. acceptable overall.,neutral,3,PROD099,Toys & Games,False,27,2025-07-16
+REV000368,Perfect! Exactly what I needed. excellent!,positive,5,PROD026,Sports & Outdoors,False,10,2025-05-04
+REV000135,Perfect! Exactly what I needed. amazing!,positive,4,PROD097,Books,False,35,2025-06-20
+REV000618,"Not bad, not great. Just reasonable.",neutral,3,PROD063,Health & Household,True,24,2025-10-25
+REV000702,It's fine. standard for the price.,neutral,3,PROD091,Home & Kitchen,False,31,2025-10-16
+REV000926,Complete waste. poor and unreliable.,negative,2,PROD030,Beauty & Personal Care,True,48,2025-05-24
+REV000318,"Love it! impressive purchase, will buy again.",positive,5,PROD085,Beauty & Personal Care,True,49,2025-10-27
+REV000944,Terrible experience. terrible product quality.,negative,2,PROD049,Home & Kitchen,False,22,2025-06-15
+REV000826,Acceptable quality. standard overall.,neutral,3,PROD008,Clothing,False,11,2025-07-28
+REV000754,It works. sufficient but meets basic needs.,neutral,3,PROD043,Health & Household,False,47,2025-01-12
+REV000443,Fantastic! Would definitely recommend this accessory.,positive,5,PROD008,Beauty & Personal Care,False,34,2025-12-01
+REV000985,Poor quality. terrible and disappointing.,negative,2,PROD018,Toys & Games,False,43,2025-04-02
+REV000503,This product is impressive! Highly recommend it.,positive,4,PROD065,Health & Household,False,10,2025-01-22
+REV000306,Perfect! Exactly what I needed. excellent!,positive,5,PROD069,Tools & Home Improvement,False,0,2024-12-23
+REV000124,This product is excellent! Highly recommend it.,positive,5,PROD008,Clothing,False,23,2025-07-23
+REV000158,"Excellent equipment, terrific value for money.",positive,5,PROD093,Electronics,False,38,2025-05-23
+REV000670,Works as described. ordinary but not amazing.,neutral,3,PROD054,Home & Kitchen,False,43,2025-08-06
+REV000771,Average product. Nothing special.,neutral,3,PROD012,Beauty & Personal Care,False,11,2025-12-10
+REV000663,Average device. Nothing special.,neutral,3,PROD013,Electronics,False,42,2025-08-22
+REV000292,Perfect! Exactly what I needed. awesome!,positive,4,PROD072,Beauty & Personal Care,False,35,2025-09-12
+REV000413,Fantastic! Would definitely recommend this thing.,positive,4,PROD032,Clothing,False,26,2025-09-22
+REV000799,Fair equipment. decent performance.,neutral,3,PROD070,Pet Supplies,False,2,2025-01-03
+REV000398,"Excellent equipment, excellent value for money.",positive,4,PROD095,Clothing,True,13,2025-09-12
+REV000167,Best thing I've ever bought. impressive!,positive,4,PROD063,Tools & Home Improvement,False,2,2025-04-06
+REV000214,Perfect! Exactly what I needed. exceptional!,positive,5,PROD022,Health & Household,False,28,2025-01-05
+REV000873,"Do not buy! worthless product, broke quickly.",negative,2,PROD081,Health & Household,True,40,2025-01-20
+REV000022,Best tool I've ever bought. superb!,positive,4,PROD057,Tools & Home Improvement,False,7,2025-04-20
+REV000092,Amazing purchase! Works perfectly.,positive,5,PROD039,Electronics,True,17,2025-01-07
+REV000972,Complete waste. worthless and unreliable.,negative,2,PROD036,Home & Kitchen,False,30,2025-07-14
+REV000887,Worst appliance ever. bad experience.,negative,1,PROD022,Pet Supplies,True,45,2025-09-15
+REV000790,It's okay. Does what it's supposed to do.,neutral,3,PROD007,Electronics,False,7,2025-05-08
+REV000246,Perfect! Exactly what I needed. brilliant!,positive,5,PROD020,Pet Supplies,True,20,2025-10-24
+REV000183,Perfect! Exactly what I needed. brilliant!,positive,5,PROD079,Sports & Outdoors,False,23,2025-05-08
+REV000262,"Excellent product, fantastic value for money.",positive,5,PROD099,Home & Kitchen,True,34,2025-01-03
+REV000409,Amazing equipment! Works perfectly.,positive,4,PROD048,Home & Kitchen,False,4,2024-12-26
+REV000095,superb quality! Exceeded my expectations.,positive,4,PROD010,Pet Supplies,True,9,2025-03-01
+REV000391,Amazing accessory! Works perfectly.,positive,4,PROD001,Electronics,True,15,2025-01-07
+REV000617,Mediocre. The thing is just fair.,neutral,3,PROD074,Tools & Home Improvement,True,49,2025-05-09
+REV000975,Terrible device. subpar waste of money.,negative,1,PROD081,Clothing,False,36,2025-01-26
+REV000561,This product is outstanding! Highly recommend it.,positive,5,PROD030,Home & Kitchen,False,23,2025-04-13
+REV000073,"Excellent appliance, outstanding value for money.",positive,5,PROD042,Toys & Games,False,17,2025-07-18
+REV000762,Fair tool. decent performance.,neutral,3,PROD019,Home & Kitchen,True,13,2025-01-02
+REV000057,Outstanding! The thing is splendid.,positive,4,PROD078,Toys & Games,False,28,2025-07-29
+REV000818,Acceptable quality. average overall.,neutral,3,PROD094,Pet Supplies,True,33,2025-06-05
+REV000331,"Excellent thing, amazing value for money.",positive,5,PROD026,Pet Supplies,True,43,2025-09-22
+REV000290,"Excellent equipment, impressive value for money.",positive,4,PROD068,Toys & Games,False,26,2025-03-01
+REV000660,Fair equipment. moderate performance.,neutral,3,PROD025,Tools & Home Improvement,False,49,2025-09-23
+REV000821,Decent product. Could be better.,neutral,3,PROD004,Pet Supplies,True,3,2025-10-15
+REV000050,splendid quality! Exceeded my expectations.,positive,5,PROD045,Tools & Home Improvement,False,43,2025-09-15
+REV000884,"Disappointed. poor quality, expected better.",negative,1,PROD003,Books,False,26,2025-10-07
+REV000217,Amazing tool! Works perfectly.,positive,4,PROD047,Beauty & Personal Care,True,38,2025-03-03
+REV000133,awesome quality! Exceeded my expectations.,positive,4,PROD042,Beauty & Personal Care,True,12,2025-02-20
+REV000583,Best thing I've ever bought. fantastic!,positive,5,PROD045,Beauty & Personal Care,True,42,2025-02-13
+REV000817,Decent gadget. Could be better.,neutral,3,PROD035,Home & Kitchen,False,41,2025-10-10
+REV000981,Very subpar. Returned it immediately.,negative,1,PROD087,Health & Household,True,14,2025-12-15
+REV000929,Horrible! The accessory is poor.,negative,2,PROD053,Clothing,False,12,2025-01-19
+REV000752,Mediocre. The purchase is just okay.,neutral,3,PROD025,Toys & Games,False,43,2025-08-17
+REV000750,It's fine. passable for the price.,neutral,3,PROD033,Home & Kitchen,False,19,2025-08-31
+REV000971,Poor quality. flimsy and disappointing.,negative,2,PROD039,Books,True,28,2025-11-03
+REV000333,"Love it! impressive purchase, will buy again.",positive,5,PROD031,Clothing,True,45,2025-07-19
+REV000464,Best equipment I've ever bought. superb!,positive,5,PROD045,Health & Household,False,13,2025-08-10
+REV000974,Horrible! The product is useless.,negative,2,PROD098,Electronics,True,40,2025-07-30
+REV000638,Decent appliance. Could be better.,neutral,3,PROD080,Health & Household,False,44,2025-10-29

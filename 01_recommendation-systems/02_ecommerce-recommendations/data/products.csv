@@ -1,0 +1,101 @@
+product_id,name,description,category,brand,price
+P001,Product 1,High quality best-selling product,Home & Garden,BrandE,44.84
+P002,Product 2,High quality premium product,Sports,BrandB,39.63
+P003,Product 3,High quality best-selling product,Clothing,BrandE,124.2
+P004,Product 4,High quality best-selling product,Sports,BrandB,147.17
+P005,Product 5,High quality affordable product,Books,BrandD,44.84
+P006,Product 6,High quality affordable product,Sports,BrandD,14.37
+P007,Product 7,High quality best-selling product,Clothing,BrandB,18.86
+P008,Product 8,High quality best-selling product,Clothing,BrandD,107.69
+P009,Product 9,High quality premium product,Clothing,BrandE,125.42
+P010,Product 10,High quality premium product,Electronics,BrandB,190.28
+P011,Product 11,High quality affordable product,Books,BrandB,67.87
+P012,Product 12,High quality premium product,Books,BrandD,55.78
+P013,Product 13,High quality best-selling product,Home & Garden,BrandE,168.3
+P014,Product 14,High quality best-selling product,Electronics,BrandD,44.61
+P015,Product 15,High quality affordable product,Books,BrandD,45.11
+P016,Product 16,High quality best-selling product,Books,BrandB,95.44
+P017,Product 17,High quality affordable product,Home & Garden,BrandD,18.58
+P018,Product 18,High quality premium product,Sports,BrandB,112.53
+P019,Product 19,High quality affordable product,Electronics,BrandD,125.33
+P020,Product 20,High quality premium product,Electronics,BrandE,162.41
+P021,Product 21,High quality premium product,Electronics,BrandA,156.72
+P022,Product 22,High quality best-selling product,Clothing,BrandC,144.29
+P023,Product 23,High quality best-selling product,Clothing,BrandA,125.12
+P024,Product 24,High quality affordable product,Books,BrandA,183.83
+P025,Product 25,High quality premium product,Home & Garden,BrandB,28.12
+P026,Product 26,High quality best-selling product,Sports,BrandC,122.34
+P027,Product 27,High quality affordable product,Clothing,BrandC,99.71
+P028,Product 28,High quality premium product,Clothing,BrandA,147.12
+P029,Product 29,High quality best-selling product,Clothing,BrandA,145.02
+P030,Product 30,High quality affordable product,Books,BrandD,30.49
+P031,Product 31,High quality best-selling product,Electronics,BrandD,117.01
+P032,Product 32,High quality affordable product,Sports,BrandE,112.56
+P033,Product 33,High quality premium product,Home & Garden,BrandE,24.62
+P034,Product 34,High quality best-selling product,Clothing,BrandD,186.63
+P035,Product 35,High quality premium product,Electronics,BrandE,175.57
+P036,Product 36,High quality affordable product,Clothing,BrandB,33.19
+P037,Product 37,High quality premium product,Electronics,BrandA,53.3
+P038,Product 38,High quality affordable product,Electronics,BrandD,76.98
+P039,Product 39,High quality best-selling product,Clothing,BrandA,102.11
+P040,Product 40,High quality premium product,Clothing,BrandB,74.14
+P041,Product 41,High quality best-selling product,Clothing,BrandA,86.72
+P042,Product 42,High quality affordable product,Electronics,BrandB,192.85
+P043,Product 43,High quality affordable product,Books,BrandC,67.16
+P044,Product 44,High quality premium product,Electronics,BrandC,125.81
+P045,Product 45,High quality affordable product,Home & Garden,BrandE,75.55
+P046,Product 46,High quality premium product,Clothing,BrandB,110.87
+P047,Product 47,High quality affordable product,Home & Garden,BrandC,80.22
+P048,Product 48,High quality premium product,Sports,BrandD,196.84
+P049,Product 49,High quality affordable product,Clothing,BrandA,38.63
+P050,Product 50,High quality best-selling product,Sports,BrandC,122.26
+P051,Product 51,High quality best-selling product,Home & Garden,BrandC,145.11
+P052,Product 52,High quality best-selling product,Clothing,BrandD,132.57
+P053,Product 53,High quality premium product,Electronics,BrandB,169.15
+P054,Product 54,High quality best-selling product,Home & Garden,BrandA,31.55
+P055,Product 55,High quality best-selling product,Books,BrandC,53.41
+P056,Product 56,High quality affordable product,Electronics,BrandD,110.62
+P057,Product 57,High quality affordable product,Electronics,BrandD,116.07
+P058,Product 58,High quality best-selling product,Electronics,BrandA,76.34
+P059,Product 59,High quality best-selling product,Home & Garden,BrandA,131.98
+P060,Product 60,High quality best-selling product,Electronics,BrandD,180.72
+P061,Product 61,High quality affordable product,Clothing,BrandA,136.06
+P062,Product 62,High quality premium product,Books,BrandB,102.26
+P063,Product 63,High quality best-selling product,Sports,BrandA,43.42
+P064,Product 64,High quality premium product,Sports,BrandD,79.62
+P065,Product 65,High quality best-selling product,Clothing,BrandA,68.52
+P066,Product 66,High quality best-selling product,Clothing,BrandE,102.47
+P067,Product 67,High quality best-selling product,Clothing,BrandB,76.5
+P068,Product 68,High quality premium product,Home & Garden,BrandA,47.09
+P069,Product 69,High quality premium product,Clothing,BrandD,14.61
+P070,Product 70,High quality premium product,Electronics,BrandD,188.68
+P071,Product 71,High quality premium product,Sports,BrandC,152.06
+P072,Product 72,High quality premium product,Sports,BrandA,115.02
+P073,Product 73,High quality best-selling product,Clothing,BrandD,172.06
+P074,Product 74,High quality best-selling product,Sports,BrandE,46.26
+P075,Product 75,High quality premium product,Clothing,BrandB,115.78
+P076,Product 76,High quality best-selling product,Books,BrandC,118.3
+P077,Product 77,High quality affordable product,Books,BrandC,66.1
+P078,Product 78,High quality affordable product,Electronics,BrandA,35.95
+P079,Product 79,High quality affordable product,Sports,BrandB,163.77
+P080,Product 80,High quality best-selling product,Books,BrandA,126.18
+P081,Product 81,High quality affordable product,Electronics,BrandD,161.67
+P082,Product 82,High quality premium product,Home & Garden,BrandC,74.21
+P083,Product 83,High quality affordable product,Books,BrandC,98.45
+P084,Product 84,High quality best-selling product,Sports,BrandB,173.47
+P085,Product 85,High quality premium product,Home & Garden,BrandB,166.28
+P086,Product 86,High quality affordable product,Clothing,BrandD,72.05
+P087,Product 87,High quality premium product,Home & Garden,BrandD,193.39
+P088,Product 88,High quality best-selling product,Home & Garden,BrandE,46.92
+P089,Product 89,High quality affordable product,Clothing,BrandD,35.21
+P090,Product 90,High quality affordable product,Home & Garden,BrandB,71.35
+P091,Product 91,High quality premium product,Clothing,BrandD,151.36
+P092,Product 92,High quality affordable product,Sports,BrandB,192.89
+P093,Product 93,High quality best-selling product,Electronics,BrandD,87.69
+P094,Product 94,High quality affordable product,Books,BrandA,94.04
+P095,Product 95,High quality affordable product,Electronics,BrandE,63.18
+P096,Product 96,High quality premium product,Sports,BrandE,89.71
+P097,Product 97,High quality affordable product,Clothing,BrandE,32.82
+P098,Product 98,High quality premium product,Home & Garden,BrandE,27.88
+P099,Product 99,High quality affordable product,Home & Garden,BrandE,100.08
+P100,Product 100,High quality affordable product,Books,BrandE,99.95

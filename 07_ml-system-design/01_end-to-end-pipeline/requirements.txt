@@ -1,5 +1,175 @@
-# Requirements.Txt
+# End-to-End ML Pipeline Requirements
+# Customer Churn Prediction System
 
-🚧 **To be documented**
+# ============================================================================
+# Core ML Libraries
+# ============================================================================
+scikit-learn>=1.3.0          # ML algorithms, preprocessing, metrics
+xgboost>=2.0.0               # Gradient boosting for better performance
+imbalanced-learn>=0.11.0     # SMOTE and other imbalance handling techniques
+numpy>=1.24.0                # Numerical computations
+pandas>=2.0.0                # Data manipulation and analysis
+scipy>=1.11.0                # Scientific computing (KS test, statistics)
 
-This file is part of the **End-to-End ML Pipeline** case study.
+# ============================================================================
+# Data Processing & Validation
+# ============================================================================
+sqlalchemy>=2.0.0            # Database ORM for data ingestion
+psycopg2-binary>=2.9.0       # PostgreSQL adapter (if using Postgres)
+pyarrow>=12.0.0              # Parquet file support (columnar storage)
+faker>=19.0.0                # Generate synthetic customer data
+python-dateutil>=2.8.0       # Date manipulation utilities
+
+# ============================================================================
+# Feature Engineering & Feature Store
+# ============================================================================
+# feast>=0.32.0              # Feature store (optional, uncomment if needed)
+joblib>=1.3.0                # Model serialization, caching
+
+# ============================================================================
+# Experiment Tracking & Model Registry
+# ============================================================================
+mlflow>=2.8.0                # Experiment tracking, model registry
+optuna>=3.3.0                # Hyperparameter optimization (Bayesian)
+
+# ============================================================================
+# Model Serving & API
+# ============================================================================
+fastapi>=0.104.0             # Modern REST API framework (async)
+uvicorn[standard]>=0.24.0    # ASGI server for FastAPI
+pydantic>=2.4.0              # Data validation for API requests/responses
+python-multipart>=0.0.6      # File upload support for FastAPI
+
+# ============================================================================
+# Monitoring & Observability
+# ============================================================================
+evidently>=0.4.0             # Data drift detection and monitoring
+prometheus-client>=0.18.0    # Metrics export for Prometheus
+# grafana-client>=3.5.0      # Programmatic dashboard creation (optional)
+
+# ============================================================================
+# Testing & Quality
+# ============================================================================
+pytest>=7.4.0                # Testing framework
+pytest-cov>=4.1.0            # Code coverage reporting
+pytest-mock>=3.12.0          # Mocking utilities for tests
+pytest-asyncio>=0.21.0       # Async test support
+httpx>=0.25.0                # Async HTTP client for API testing
+locust>=2.16.0               # Load testing for API endpoints
+
+# ============================================================================
+# Utilities & Configuration
+# ============================================================================
+python-dotenv>=1.0.0         # Environment variable management
+pyyaml>=6.0.1                # YAML configuration file support
+click>=8.1.7                 # CLI tool creation
+tqdm>=4.66.0                 # Progress bars for long operations
+tenacity>=8.2.3              # Retry logic with exponential backoff
+
+# ============================================================================
+# Visualization & Notebooks
+# ============================================================================
+matplotlib>=3.8.0            # Plotting library
+seaborn>=0.13.0              # Statistical visualizations
+plotly>=5.17.0               # Interactive visualizations
+jupyter>=1.0.0               # Jupyter notebook environment
+ipywidgets>=8.1.0            # Interactive widgets for notebooks
+notebook>=7.0.0              # Jupyter notebook server
+
+# ============================================================================
+# Logging & Debugging
+# ============================================================================
+loguru>=0.7.0                # Better logging with colors and formatting
+rich>=13.6.0                 # Rich text and formatting in terminal
+
+# ============================================================================
+# Development Tools
+# ============================================================================
+black>=23.10.0               # Code formatter
+flake8>=6.1.0                # Linting
+mypy>=1.6.0                  # Type checking
+isort>=5.12.0                # Import sorting
+pre-commit>=3.5.0            # Git hooks for code quality
+
+# ============================================================================
+# Optional: Streaming & Big Data (Uncomment if needed)
+# ============================================================================
+# kafka-python>=2.0.2        # Apache Kafka client
+# pyspark>=3.5.0             # Apache Spark for large-scale processing
+# redis>=5.0.0               # Redis client for caching
+
+# ============================================================================
+# Optional: Advanced Feature Store (Uncomment if using)
+# ============================================================================
+# feast>=0.32.0              # Open-source feature store
+# great-expectations>=0.17.0 # Data quality validation framework
+
+# ============================================================================
+# Notes for Interview Discussions
+# ============================================================================
+#
+# Key Library Choices & Rationale:
+#
+# 1. scikit-learn vs XGBoost:
+#    - scikit-learn: Baseline models, interpretable, fast training
+#    - XGBoost: Better performance on structured data, handles imbalance well
+#    - Interview tip: Start simple (sklearn), optimize later (XGBoost)
+#
+# 2. FastAPI vs Flask:
+#    - FastAPI: Async support, automatic API docs, Pydantic validation
+#    - Flask: Simpler, more mature, synchronous
+#    - Interview tip: FastAPI for production ML (better performance)
+#
+# 3. MLflow vs Weights & Biases vs Neptune:
+#    - MLflow: Open-source, self-hosted, model registry
+#    - W&B/Neptune: SaaS, better UI, team collaboration
+#    - Interview tip: MLflow for cost control, W&B for team features
+#
+# 4. Feature Store Options:
+#    - Custom (SQLite/Postgres): Simple, full control, limited features
+#    - Feast: Open-source, scalable, learning curve
+#    - Tecton/AWS Feature Store: Enterprise, managed, expensive
+#    - Interview tip: Start custom, migrate to Feast when scaling
+#
+# 5. Monitoring Stack:
+#    - Evidently: ML-specific monitoring (drift, data quality)
+#    - Prometheus + Grafana: System metrics (latency, throughput)
+#    - Interview tip: Need both application AND ML-specific monitoring
+#
+# 6. Class Imbalance Handling:
+#    - imbalanced-learn (SMOTE): Synthetic oversampling
+#    - XGBoost scale_pos_weight: Built-in class weighting
+#    - Threshold tuning: Business-driven decision boundary
+#    - Interview tip: Try multiple approaches, measure business impact
+#
+# 7. Hyperparameter Optimization:
+#    - GridSearchCV: Exhaustive search, small param space
+#    - RandomizedSearchCV: Faster, random sampling
+#    - Optuna: Bayesian optimization, more efficient
+#    - Interview tip: Use Optuna for complex models, grid for simple
+#
+# 8. Data Validation:
+#    - Pydantic: API request/response validation
+#    - Great Expectations: Data pipeline quality checks
+#    - Custom checks: Domain-specific validations
+#    - Interview tip: Fail fast, log rejections, monitor rejection rate
+#
+# Trade-offs to Discuss:
+# - More libraries = more dependencies = harder maintenance
+# - Managed services (SaaS) = easier ops but higher cost & vendor lock-in
+# - Open-source = flexibility but requires more engineering effort
+# - Cutting-edge tools = latest features but less mature/stable
+#
+# Production Considerations:
+# - Pin exact versions in production (use ==, not >=)
+# - Use virtual environments (venv, conda)
+# - Docker containers for reproducibility
+# - Separate requirements for dev/test/prod
+# - Monitor for security vulnerabilities (pip-audit, safety)
+#
+# Scaling Considerations:
+# - Add Spark for datasets >100GB
+# - Add Redis for feature caching (<10ms latency)
+# - Add Kafka for real-time streaming features
+# - Add distributed training (Dask, Ray) for large models
+#

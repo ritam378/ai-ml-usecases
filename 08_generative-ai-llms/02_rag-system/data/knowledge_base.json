@@ -1,0 +1,142 @@
+[
+  {
+    "id": "doc001",
+    "title": "Python Lists",
+    "content": "Python lists are ordered, mutable collections that can contain items of different data types. You create a list using square brackets: my_list = [1, 2, 3, 'four', 5.0]. Lists support indexing (my_list[0] returns first element), slicing (my_list[1:3] returns elements 1-2), and various methods like append(), extend(), insert(), remove(), and pop(). Lists are zero-indexed, meaning the first element is at index 0. You can iterate over lists using for loops: for item in my_list. Common operations include len(my_list) to get length, sorted(my_list) to sort, and list comprehensions for creating new lists: squares = [x**2 for x in range(10)].",
+    "category": "python_basics",
+    "keywords": ["list", "array", "collection", "mutable"]
+  },
+  {
+    "id": "doc002",
+    "title": "Python Dictionaries",
+    "content": "Python dictionaries are unordered collections of key-value pairs. You create a dictionary using curly braces: my_dict = {'name': 'Alice', 'age': 30, 'city': 'NYC'}. Access values using keys: my_dict['name'] returns 'Alice'. Dictionaries are mutable - you can add, modify, or delete entries. Common methods include keys(), values(), items() to iterate over parts of the dictionary, get(key, default) for safe access, and update() to merge dictionaries. Dictionary keys must be immutable (strings, numbers, tuples) but values can be any type. Use dict comprehensions to create dictionaries: {x: x**2 for x in range(5)}. Dictionaries are implemented as hash tables, providing O(1) average lookup time.",
+    "category": "python_basics",
+    "keywords": ["dictionary", "hash", "key-value", "mapping"]
+  },
+  {
+    "id": "doc003",
+    "title": "Python Functions",
+    "content": "Functions in Python are defined using the def keyword followed by function name and parameters in parentheses. Example: def greet(name): return f'Hello, {name}!'. Functions can have default parameters: def greet(name='World'): return f'Hello, {name}!'. Python supports variable-length arguments using *args for positional arguments and **kwargs for keyword arguments. Functions are first-class objects in Python - they can be assigned to variables, passed as arguments, and returned from other functions. Use docstrings (triple quotes) to document functions. Lambda functions provide a way to create small anonymous functions: square = lambda x: x**2. Functions create their own local scope, and you can access outer scope variables using the global or nonlocal keywords.",
+    "category": "python_basics",
+    "keywords": ["function", "def", "parameters", "return"]
+  },
+  {
+    "id": "doc004",
+    "title": "Python Classes and Objects",
+    "content": "Python is an object-oriented programming language. Classes are blueprints for creating objects. Define a class using the class keyword: class Dog: def __init__(self, name): self.name = name. The __init__ method is the constructor, called when creating new instances. self refers to the instance itself. Create objects by calling the class: my_dog = Dog('Buddy'). Classes support inheritance: class Puppy(Dog): pass. Use super() to call parent class methods. Special methods (dunder methods) like __str__, __repr__, __len__ customize object behavior. Properties can be created using @property decorator for controlled attribute access. Class methods use @classmethod decorator and receive the class as first argument, while static methods use @staticmethod and don't receive self or cls.",
+    "category": "python_basics",
+    "keywords": ["class", "object", "OOP", "inheritance"]
+  },
+  {
+    "id": "doc005",
+    "title": "List Comprehensions",
+    "content": "List comprehensions provide a concise way to create lists in Python. Basic syntax: [expression for item in iterable]. Example: squares = [x**2 for x in range(10)] creates a list of squares 0-81. You can add conditions: evens = [x for x in range(20) if x % 2 == 0]. Nested list comprehensions are possible: matrix = [[i+j for j in range(3)] for i in range(3)]. List comprehensions are more readable and often faster than equivalent for loops. Similar comprehensions exist for dictionaries: {x: x**2 for x in range(5)} and sets: {x**2 for x in range(10)}. For more complex logic, traditional loops might be more readable. Generator expressions use parentheses instead of brackets and are memory-efficient for large datasets: (x**2 for x in range(1000000)).",
+    "category": "python_intermediate",
+    "keywords": ["comprehension", "list", "generator", "functional"]
+  },
+  {
+    "id": "doc006",
+    "title": "Python Decorators",
+    "content": "Decorators are a powerful feature in Python that allow you to modify or enhance functions without changing their code. A decorator is a function that takes another function as an argument and returns a modified version. Basic syntax: @decorator_name above a function definition. Example: def timing_decorator(func): def wrapper(*args, **kwargs): start = time.time(); result = func(*args, **kwargs); print(f'Time: {time.time()-start}'); return result; return wrapper. Then use @timing_decorator above any function to time it. Decorators can accept arguments by adding another layer of nesting. Common built-in decorators include @property, @staticmethod, @classmethod, and @functools.wraps (preserves function metadata). Decorators are heavily used in web frameworks like Flask and Django for routing, authentication, and caching.",
+    "category": "python_advanced",
+    "keywords": ["decorator", "wrapper", "metaprogramming", "function"]
+  },
+  {
+    "id": "doc007",
+    "title": "Exception Handling",
+    "content": "Python uses try-except blocks for error handling. Basic syntax: try: risky_operation() except ExceptionType: handle_error(). You can catch multiple exceptions: except (TypeError, ValueError) as e: or use multiple except blocks. The else clause runs if no exception occurred, and finally clause always runs (useful for cleanup). Raise exceptions using raise keyword: raise ValueError('Invalid input'). Create custom exceptions by inheriting from Exception class. Best practices: catch specific exceptions rather than bare except, use context managers (with statement) for resource management, and include informative error messages. Common exceptions include ValueError, TypeError, KeyError, IndexError, and FileNotFoundError. Use assertions for debugging: assert condition, 'error message'.",
+    "category": "python_intermediate",
+    "keywords": ["exception", "error", "try-except", "raise"]
+  },
+  {
+    "id": "doc008",
+    "title": "File I/O in Python",
+    "content": "Python provides built-in functions for reading and writing files. Use open(filename, mode) where mode is 'r' for read, 'w' for write, 'a' for append, and 'b' for binary. Always use context managers: with open('file.txt', 'r') as f: content = f.read(). This automatically closes the file. Read methods include read() (entire file), readline() (single line), and readlines() (list of lines). Write using write() or writelines(). For CSV files, use the csv module. For JSON, use json.load() and json.dump(). The pathlib module provides object-oriented file path handling. For large files, iterate line by line: for line in f: to avoid loading everything into memory. Binary files require 'rb' or 'wb' mode. Use encoding parameter for non-UTF-8 files: open('file.txt', 'r', encoding='latin-1').",
+    "category": "python_intermediate",
+    "keywords": ["file", "IO", "read", "write", "context manager"]
+  },
+  {
+    "id": "doc009",
+    "title": "NumPy Arrays",
+    "content": "NumPy is the fundamental package for scientific computing in Python. NumPy arrays (ndarrays) are fixed-size, homogeneous multidimensional arrays that enable efficient numerical operations. Create arrays using np.array([1, 2, 3]) or generators like np.zeros((3, 4)), np.ones((2, 3)), np.arange(0, 10, 2), and np.linspace(0, 1, 5). Arrays support element-wise operations: arr * 2 multiplies all elements. Broadcasting allows operations between arrays of different shapes. Indexing and slicing work similarly to lists but extend to multiple dimensions: arr[1:3, 0:2]. Use boolean indexing: arr[arr > 5] to filter elements. Common operations include arr.shape, arr.dtype, arr.reshape(), arr.transpose(), and reduction operations like sum(), mean(), max(). NumPy is significantly faster than Python lists for numerical operations due to optimized C implementations.",
+    "category": "data_science",
+    "keywords": ["numpy", "array", "numerical", "scientific computing"]
+  },
+  {
+    "id": "doc010",
+    "title": "Pandas DataFrames",
+    "content": "Pandas is a powerful data manipulation library built on top of NumPy. DataFrames are two-dimensional labeled data structures, like spreadsheets or SQL tables. Create DataFrames from dictionaries: pd.DataFrame({'A': [1, 2], 'B': [3, 4]}), from CSV files: pd.read_csv('data.csv'), or from NumPy arrays. Access columns using df['column_name'] or df.column_name. Filter rows using boolean indexing: df[df['age'] > 30]. Use loc for label-based indexing and iloc for position-based. Common operations include df.head(), df.info(), df.describe() for inspection, and df.groupby(), df.merge(), df.pivot_table() for analysis. Handle missing data with df.fillna(), df.dropna(). Apply functions with df.apply(). Pandas integrates well with visualization libraries like matplotlib and seaborn. Time series functionality includes date parsing and resampling.",
+    "category": "data_science",
+    "keywords": ["pandas", "dataframe", "data manipulation", "analysis"]
+  },
+  {
+    "id": "doc011",
+    "title": "Supervised Learning",
+    "content": "Supervised learning is a machine learning paradigm where models learn from labeled training data to make predictions on new, unseen data. The training data consists of input features (X) and corresponding output labels (y). The goal is to learn a mapping function f: X → y. Supervised learning divides into two main types: classification (predicting discrete categories like spam/not spam) and regression (predicting continuous values like house prices). Common algorithms include linear regression, logistic regression, decision trees, random forests, support vector machines (SVM), and neural networks. The typical workflow involves splitting data into training and test sets, training the model on training data, and evaluating performance on test data using metrics like accuracy, precision, recall for classification, or MSE, RMSE, R² for regression. Challenges include overfitting (model too complex), underfitting (model too simple), and class imbalance.",
+    "category": "machine_learning",
+    "keywords": ["supervised", "classification", "regression", "training"]
+  },
+  {
+    "id": "doc012",
+    "title": "Unsupervised Learning",
+    "content": "Unsupervised learning involves finding patterns in unlabeled data without predefined categories or outputs. The model identifies inherent structures, relationships, or groupings in the data. Major types include clustering (grouping similar data points), dimensionality reduction (reducing feature space while preserving information), and anomaly detection (identifying unusual patterns). Popular clustering algorithms include K-Means (partitioning data into K clusters), DBSCAN (density-based clustering), and hierarchical clustering. Dimensionality reduction techniques include PCA (Principal Component Analysis), t-SNE (for visualization), and autoencoders. Applications include customer segmentation, feature extraction, data compression, and exploratory data analysis. Evaluation is challenging without labels - use metrics like silhouette score, Davies-Bouldin index, or domain knowledge to assess quality. Unsupervised learning often serves as preprocessing for supervised learning or for discovering insights in exploratory analysis.",
+    "category": "machine_learning",
+    "keywords": ["unsupervised", "clustering", "dimensionality reduction", "PCA"]
+  },
+  {
+    "id": "doc013",
+    "title": "Neural Networks",
+    "content": "Neural networks are computing systems inspired by biological neural networks. An artificial neural network consists of layers of interconnected nodes (neurons). Each connection has a weight that adjusts during training. Basic architecture includes input layer (receives data), hidden layers (process information), and output layer (produces predictions). Each neuron applies an activation function (ReLU, sigmoid, tanh) to weighted inputs. Training uses backpropagation and gradient descent to minimize a loss function. Deep learning refers to neural networks with multiple hidden layers. Common architectures include feedforward networks (basic), convolutional neural networks (CNNs for images), recurrent neural networks (RNNs for sequences), and transformers (for NLP). Frameworks like TensorFlow, PyTorch, and Keras simplify implementation. Challenges include choosing architecture, preventing overfitting (use dropout, regularization), and computational cost. Applications span computer vision, natural language processing, speech recognition, and game playing.",
+    "category": "deep_learning",
+    "keywords": ["neural network", "deep learning", "backpropagation", "activation"]
+  },
+  {
+    "id": "doc014",
+    "title": "Train-Test Split",
+    "content": "The train-test split is a fundamental technique in machine learning for evaluating model performance. The dataset is divided into two parts: training set (typically 70-80% of data) used to train the model, and test set (20-30%) used to evaluate it. This prevents overfitting and provides an unbiased estimate of model performance on unseen data. In scikit-learn, use train_test_split(X, y, test_size=0.2, random_state=42). The random_state parameter ensures reproducibility. For small datasets or to maximize data usage, consider k-fold cross-validation, which divides data into k subsets (folds) and trains k times, each time using a different fold as test set. Stratified splitting maintains class proportions in train and test sets, crucial for imbalanced datasets. Never use test data for any training decisions (hyperparameter tuning, feature selection) - this causes data leakage. For time series, use time-based splits to respect temporal ordering.",
+    "category": "machine_learning",
+    "keywords": ["train-test split", "validation", "cross-validation", "evaluation"]
+  },
+  {
+    "id": "doc015",
+    "title": "Overfitting and Regularization",
+    "content": "Overfitting occurs when a model learns the training data too well, including its noise and outliers, resulting in poor performance on new data. Signs include high training accuracy but low test accuracy. Causes include model too complex relative to data size, too many features, or training for too long. Solutions include: 1) Regularization - adding penalty terms to loss function (L1/Lasso, L2/Ridge, Elastic Net), 2) Cross-validation - better estimate of generalization, 3) Dropout - randomly deactivate neurons during training (neural networks), 4) Early stopping - stop training when validation performance degrades, 5) Data augmentation - artificially increase training data, 6) Feature selection - remove irrelevant features, 7) Ensemble methods - combine multiple models. Underfitting is the opposite - model too simple to capture patterns. The bias-variance tradeoff describes this balance: simple models have high bias (underfitting), complex models have high variance (overfitting). Optimal model complexity minimizes total error.",
+    "category": "machine_learning",
+    "keywords": ["overfitting", "regularization", "bias-variance", "generalization"]
+  },
+  {
+    "id": "doc016",
+    "title": "Feature Engineering",
+    "content": "Feature engineering is the process of creating new features or transforming existing ones to improve model performance. Good features make patterns more obvious to models. Common techniques include: 1) Handling missing values - imputation with mean/median/mode, or creating indicator variables, 2) Encoding categorical variables - one-hot encoding, label encoding, target encoding, 3) Scaling features - standardization (zero mean, unit variance), normalization (0-1 range), 4) Creating interaction features - products or combinations of existing features, 5) Polynomial features - x², x³ for non-linear relationships, 6) Binning - converting continuous features to discrete bins, 7) Date/time features - extracting day of week, month, hour from timestamps, 8) Text features - TF-IDF, word embeddings, 9) Aggregations - mean, max, count over groups. Domain knowledge is crucial for effective feature engineering. Automated tools like Featuretools exist but understanding data is key. Feature selection techniques help identify most important features: filter methods, wrapper methods, and embedded methods like Lasso.",
+    "category": "machine_learning",
+    "keywords": ["feature engineering", "preprocessing", "encoding", "scaling"]
+  },
+  {
+    "id": "doc017",
+    "title": "Gradient Descent",
+    "content": "Gradient descent is an optimization algorithm used to minimize the loss function in machine learning models. The algorithm iteratively adjusts model parameters in the direction of steepest descent (negative gradient) to find the minimum. Basic steps: 1) Initialize parameters randomly, 2) Calculate gradient of loss function, 3) Update parameters: θ = θ - α∇J(θ), where α is learning rate, 4) Repeat until convergence. Variants include: Batch gradient descent (uses entire dataset per update - slow but stable), Stochastic gradient descent (uses one sample per update - fast but noisy), Mini-batch gradient descent (uses small batches - balance of both). Learning rate α is crucial: too large causes oscillation or divergence, too small causes slow convergence. Adaptive learning rate methods include Adam, RMSprop, and AdaGrad. Momentum helps accelerate convergence and escape local minima. Gradient descent powers training of neural networks through backpropagation, which efficiently computes gradients using the chain rule.",
+    "category": "machine_learning",
+    "keywords": ["gradient descent", "optimization", "learning rate", "backpropagation"]
+  },
+  {
+    "id": "doc018",
+    "title": "Decision Trees",
+    "content": "Decision trees are supervised learning models that make predictions by learning decision rules from features. The tree structure consists of nodes (decisions based on feature values), branches (outcomes of decisions), and leaves (predictions). Trees are built top-down by recursively splitting data based on features that best separate the classes or reduce variance. Splitting criteria include Gini impurity and entropy for classification, and variance reduction for regression. Advantages include interpretability (easy to visualize and explain), handling both numerical and categorical data, requiring little preprocessing, and capturing non-linear relationships. Disadvantages include tendency to overfit (grow too deep), instability (small data changes cause different trees), and bias toward features with more levels. Prevent overfitting by limiting tree depth (max_depth), requiring minimum samples per leaf (min_samples_leaf), or pruning. Ensemble methods like Random Forests and Gradient Boosting combine multiple trees for better performance. Feature importance can be extracted from trained trees.",
+    "category": "machine_learning",
+    "keywords": ["decision tree", "classification", "regression", "interpretable"]
+  },
+  {
+    "id": "doc019",
+    "title": "Random Forests",
+    "content": "Random Forests are ensemble learning methods that create multiple decision trees and combine their predictions. For classification, use majority voting; for regression, average the predictions. The algorithm introduces randomness in two ways: 1) Bootstrap aggregating (bagging) - each tree trains on a random subset of data with replacement, 2) Feature randomness - each split considers only a random subset of features. This reduces overfitting compared to single decision trees and improves generalization. Advantages include high accuracy, robustness to outliers and noise, handling high-dimensional data, providing feature importance, and parallelizable training. Disadvantages include less interpretability than single trees, more computational resources, and larger model size. Hyperparameters to tune include n_estimators (number of trees), max_depth (tree depth), max_features (features per split), and min_samples_split. Random Forests work well out-of-the-box with default parameters and are popular for both classification and regression tasks. Out-of-bag (OOB) error provides validation estimate without separate validation set.",
+    "category": "machine_learning",
+    "keywords": ["random forest", "ensemble", "bagging", "feature importance"]
+  },
+  {
+    "id": "doc020",
+    "title": "Confusion Matrix",
+    "content": "A confusion matrix is a table used to evaluate classification model performance by comparing predicted and actual classes. For binary classification, it contains four values: True Positives (TP - correctly predicted positive), True Negatives (TN - correctly predicted negative), False Positives (FP - incorrectly predicted positive, Type I error), and False Negatives (FN - incorrectly predicted negative, Type II error). From these, calculate key metrics: Accuracy = (TP+TN)/(TP+TN+FP+FN), Precision = TP/(TP+FP) (of predicted positives, how many are correct), Recall/Sensitivity = TP/(TP+FN) (of actual positives, how many we found), Specificity = TN/(TN+FP) (of actual negatives, how many we found), F1-Score = 2*(Precision*Recall)/(Precision+Recall) (harmonic mean). For multi-class classification, the matrix is NxN where N is number of classes. Confusion matrices reveal model's strengths and weaknesses - which classes it confuses. In imbalanced datasets, accuracy can be misleading; focus on precision, recall, and F1-score instead.",
+    "category": "machine_learning",
+    "keywords": ["confusion matrix", "evaluation", "precision", "recall", "accuracy"]
+  }
+]

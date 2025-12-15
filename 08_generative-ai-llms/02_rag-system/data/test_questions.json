@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is a Python list?",
+    "expected_doc_ids": ["doc001"],
+    "category": "python_basics"
+  },
+  {
+    "question": "How do you create a dictionary in Python?",
+    "expected_doc_ids": ["doc002"],
+    "category": "python_basics"
+  },
+  {
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "expected_doc_ids": ["doc011", "doc012"],
+    "category": "machine_learning"
+  },
+  {
+    "question": "How do I prevent overfitting in my model?",
+    "expected_doc_ids": ["doc015"],
+    "category": "machine_learning"
+  },
+  {
+    "question": "What is gradient descent used for?",
+    "expected_doc_ids": ["doc017"],
+    "category": "machine_learning"
+  },
+  {
+    "question": "How does a Random Forest work?",
+    "expected_doc_ids": ["doc019"],
+    "category": "machine_learning"
+  },
+  {
+    "question": "What metrics can I calculate from a confusion matrix?",
+    "expected_doc_ids": ["doc020"],
+    "category": "machine_learning"
+  },
+  {
+    "question": "How do I read a file in Python?",
+    "expected_doc_ids": ["doc008"],
+    "category": "python_intermediate"
+  },
+  {
+    "question": "What are decorators in Python?",
+    "expected_doc_ids": ["doc006"],
+    "category": "python_advanced"
+  },
+  {
+    "question": "How do I handle missing values in my dataset?",
+    "expected_doc_ids": ["doc016"],
+    "category": "machine_learning"
+  },
+  {
+    "question": "What is the purpose of train-test split?",
+    "expected_doc_ids": ["doc014"],
+    "category": "machine_learning"
+  },
+  {
+    "question": "How do neural networks learn?",
+    "expected_doc_ids": ["doc013"],
+    "category": "deep_learning"
+  }
+]

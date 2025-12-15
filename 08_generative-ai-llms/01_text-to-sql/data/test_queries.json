@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Show all customers from New York",
+    "sql": "SELECT id, name, email, city FROM customers WHERE city = 'New York'",
+    "complexity": "simple",
+    "category": "filter"
+  },
+  {
+    "id": 2,
+    "question": "What are the top 5 customers by total order value?",
+    "sql": "SELECT c.id, c.name, SUM(o.total_amount) as total_spent FROM customers c JOIN orders o ON c.id = o.customer_id GROUP BY c.id, c.name ORDER BY total_spent DESC LIMIT 5",
+    "complexity": "medium",
+    "category": "aggregation_join"
+  },
+  {
+    "id": 3,
+    "question": "List all products in the Electronics category with price over $50",
+    "sql": "SELECT id, name, price, stock_quantity FROM products WHERE category = 'Electronics' AND price > 50 ORDER BY price DESC",
+    "complexity": "simple",
+    "category": "filter"
+  },
+  {
+    "id": 4,
+    "question": "How many orders were placed in April 2024?",
+    "sql": "SELECT COUNT(*) as order_count FROM orders WHERE strftime('%Y-%m', order_date) = '2024-04'",
+    "complexity": "simple",
+    "category": "aggregation"
+  },
+  {
+    "id": 5,
+    "question": "Which products have an average rating above 4.5?",
+    "sql": "SELECT p.id, p.name, AVG(r.rating) as avg_rating, COUNT(r.id) as review_count FROM products p JOIN reviews r ON p.id = r.product_id GROUP BY p.id, p.name HAVING AVG(r.rating) > 4.5 ORDER BY avg_rating DESC",
+    "complexity": "medium",
+    "category": "aggregation_join"
+  },
+  {
+    "id": 6,
+    "question": "Find products that have never been ordered",
+    "sql": "SELECT p.id, p.name, p.category, p.price FROM products p LEFT JOIN order_items oi ON p.id = oi.product_id WHERE oi.product_id IS NULL",
+    "complexity": "medium",
+    "category": "null_handling"
+  },
+  {
+    "id": 7,
+    "question": "Show total revenue by product category",
+    "sql": "SELECT p.category, SUM(oi.quantity * oi.unit_price) as total_revenue FROM products p JOIN order_items oi ON p.id = oi.product_id GROUP BY p.category ORDER BY total_revenue DESC",
+    "complexity": "medium",
+    "category": "aggregation_join"
+  },
+  {
+    "id": 8,
+    "question": "Which customers have placed more than 2 orders?",
+    "sql": "SELECT c.id, c.name, c.email, COUNT(o.id) as order_count FROM customers c JOIN orders o ON c.id = o.customer_id GROUP BY c.id, c.name, c.email HAVING COUNT(o.id) > 2",
+    "complexity": "medium",
+    "category": "aggregation_join"
+  },
+  {
+    "id": 9,
+    "question": "What is the average order value?",
+    "sql": "SELECT AVG(total_amount) as avg_order_value FROM orders",
+    "complexity": "simple",
+    "category": "aggregation"
+  },
+  {
+    "id": 10,
+    "question": "Show orders with status 'delivered' in the last 30 days",
+    "sql": "SELECT id, customer_id, order_date, total_amount FROM orders WHERE status = 'delivered' AND order_date >= date('now', '-30 days') ORDER BY order_date DESC",
+    "complexity": "simple",
+    "category": "filter_date"
+  },
+  {
+    "id": 11,
+    "question": "List the top 3 most reviewed products",
+    "sql": "SELECT p.id, p.name, COUNT(r.id) as review_count FROM products p JOIN reviews r ON p.id = r.product_id GROUP BY p.id, p.name ORDER BY review_count DESC LIMIT 3",
+    "complexity": "medium",
+    "category": "aggregation_join"
+  },
+  {
+    "id": 12,
+    "question": "What is the total quantity sold for each product?",
+    "sql": "SELECT p.id, p.name, SUM(oi.quantity) as total_sold FROM products p LEFT JOIN order_items oi ON p.id = oi.product_id GROUP BY p.id, p.name ORDER BY total_sold DESC",
+    "complexity": "medium",
+    "category": "aggregation_join"
+  },
+  {
+    "id": 13,
+    "question": "Show customers who have never left a review",
+    "sql": "SELECT c.id, c.name, c.email FROM customers c LEFT JOIN reviews r ON c.id = r.customer_id WHERE r.id IS NULL",
+    "complexity": "medium",
+    "category": "null_handling"
+  },
+  {
+    "id": 14,
+    "question": "Find orders containing more than 3 items",
+    "sql": "SELECT o.id, o.order_date, COUNT(oi.id) as item_count, o.total_amount FROM orders o JOIN order_items oi ON o.id = oi.order_id GROUP BY o.id, o.order_date, o.total_amount HAVING COUNT(oi.id) > 3",
+    "complexity": "medium",
+    "category": "aggregation_join"
+  },
+  {
+    "id": 15,
+    "question": "What is the price range for products in each category?",
+    "sql": "SELECT category, MIN(price) as min_price, MAX(price) as max_price, AVG(price) as avg_price FROM products GROUP BY category ORDER BY category",
+    "complexity": "medium",
+    "category": "aggregation"
+  },
+  {
+    "id": 16,
+    "question": "Show customers and their total number of reviews",
+    "sql": "SELECT c.id, c.name, COUNT(r.id) as review_count FROM customers c LEFT JOIN reviews r ON c.id = r.customer_id GROUP BY c.id, c.name ORDER BY review_count DESC",
+    "complexity": "medium",
+    "category": "aggregation_join"
+  },
+  {
+    "id": 17,
+    "question": "List products ordered by more than 3 different customers",
+    "sql": "SELECT p.id, p.name, COUNT(DISTINCT o.customer_id) as customer_count FROM products p JOIN order_items oi ON p.id = oi.product_id JOIN orders o ON oi.order_id = o.id GROUP BY p.id, p.name HAVING COUNT(DISTINCT o.customer_id) > 3",
+    "complexity": "complex",
+    "category": "multi_join"
+  },
+  {
+    "id": 18,
+    "question": "What percentage of orders have been delivered?",
+    "sql": "SELECT ROUND(CAST(SUM(CASE WHEN status = 'delivered' THEN 1 ELSE 0 END) AS FLOAT) / COUNT(*) * 100, 2) as delivery_percentage FROM orders",
+    "complexity": "medium",
+    "category": "conditional_aggregation"
+  },
+  {
+    "id": 19,
+    "question": "Show products with low stock (less than 50 units)",
+    "sql": "SELECT id, name, category, stock_quantity, price FROM products WHERE stock_quantity < 50 ORDER BY stock_quantity ASC",
+    "complexity": "simple",
+    "category": "filter"
+  },
+  {
+    "id": 20,
+    "question": "Find the most expensive order",
+    "sql": "SELECT id, customer_id, order_date, total_amount FROM orders ORDER BY total_amount DESC LIMIT 1",
+    "complexity": "simple",
+    "category": "sort_limit"
+  }
+]
